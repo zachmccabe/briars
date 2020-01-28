@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="https://www.zachmccabe.com/assets/css/kaoliang5_article.css">
+  </head>
+  
+<body>
+<header>
+{% include header.html %}
+</header>
+
+<main>
+<div class="xwrap">
+<div class="xnest20">
+{{ content }}
+{% if page.cta %}<div class="briarsCTA"><p>{{ page.cta }}</p></div>{% else %}{% endif %}
+</div>
+</div>
+</main>
+
+<footer>
+{% include footer.html %}
+</footer>
+    
+</body>
+</html>
