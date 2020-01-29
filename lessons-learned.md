@@ -3,6 +3,12 @@ layout: kaoliang5_article
 title: Lessons learned
 date: 2020-01-28
 description: Project notes from Laughing Lost in Briars
+nav: |
+  + [Atomic unit](https://www.zachmccabe.com/briars/lessons-learned.html#atomic-unit)
+  + [Work fast](https://www.zachmccabe.com/briars/lessons-learned.html#work-fast)
+  + [Touchscreen?](https://www.zachmccabe.com/briars/lessons-learned.html#touchscreen)
+  + [Keep learning](https://www.zachmccabe.com/briars/lessons-learned.html#keep-learning)
+  + [Recharge](https://www.zachmccabe.com/briars/lessons-learned.html#recharge)
 
 ---
 
@@ -14,6 +20,10 @@ To sustain this project, I use what I've learned from previous big projects:
 - Rely on the routine and workflow when mental bandwidth is limited.
 
 Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox before sharing via mobile phone. Any notes or captions are stored in TXT files alongside the images. There is no time for post-processing with a project like this.
+
+
+{% include page_nav.html %}
+
 
 <div style="margin: 5em auto">
 <p><img src="https://www.zachmccabe.com/briars/assets/viz/9.jpg" alt="paintbrush flower closeup" /></p>
@@ -48,7 +58,7 @@ I'm not at the ranch to take pictures. That is a privilege, it's not my job. If 
 
 Typically, I find a way to tell my story using subjects that don't scare off. Sometimes, I find subjects elsewhere on my own time.
 
-Usually, I loose daylight without having captured anything. Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later – I've got time.
+Usually, I loose daylight without having captured anything. Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later. I don't like waiting but I've got time.
 
 
 <div style="margin:5em auto">
@@ -60,9 +70,7 @@ Usually, I loose daylight without having captured anything. Very few of the phot
 
 Although the first 3 years-worth of images were made with cell phones, I  switched to a hand-me-down Nikon point and shoot. It has an optical zoom. Most importantly, I can quickly adjust exposure settings using control wheels without having to take off my work gloves.
 
-It's a hardy little camera, and has survived a kiss from a copperhead, cow snot, as well as the usual heat, dust and rain.
-
-Otherwise, it’s stowed in a ziplock bag in my pocket, or in a small Pelican case. 
+It's a surprisingly hardy little camera. It's survived a toothy kiss from a copperhead, cow snot, and the usual heat, dust and rain, too. I keep the camera close by – either stowed in a ziplock bag in my pocket, or in a small Pelican case alongside my tools – because a camera is useless if you don't have it when you need it.
 
 
 
@@ -74,4 +82,4 @@ In addition to the usual field guides, [iNaturalist,](https://www.inaturalist.or
 
 ## Recharge
 
-When feel like I can't possibly come up with another picture, I flip through that [notebook](https://www.zachmccabe.com/briars/about-briars.html#backstory) from my teacher and ask myself how Qi Baishi might see the view.
+When feel like I can't possibly come up with another picture, I flip through that [notebook](https://www.zachmccabe.com/briars/about-briars.html#backstory) and ask myself how Qi Baishi might see the view.
