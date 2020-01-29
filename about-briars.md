@@ -45,8 +45,4 @@ It started with a chance reunion.
 
 During a visit, my childhood Chinese teacher gave me a notebook filled with details from the ink and brush paintings of [Qi Baishi.](https://en.wikipedia.org/wiki/Qi_Baishi) As a kid in China, Qi's crickets and cicadas were my favorite.
 
-
---- some qi baishi jpg???
-
-
 You know those moments when you've lost something but before you've realized it's gone, someone surprises you by gracefully returning the missing object? *This* was one of those moments.
