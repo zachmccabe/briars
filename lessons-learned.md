@@ -15,8 +15,9 @@ To sustain this project, I use what I've learned from previous big projects:
 
 Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox before sharing via mobile phone. Any notes or captions are stored in TXT files alongside the images. There is no time for post-processing with a project like this.
 
-
-![paintbrush flower closeup](https://www.zachmccabe.com/briars/assets/viz/9.jpg)
+<div style="margin: 5em auto">
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/9.jpg" alt="paintbrush flower closeup" /></p>
+</div>
 
 
 ## Atomic unit
@@ -36,9 +37,9 @@ It has proved to be an invaluable conceptual tool, even if it shakes out a littl
 Obviously, when I started this project I had no idea where it would go, or that it'd still be growing years later. If I had tried to cram Briars into a traditional structure, like a photo essay, things would have fallen apart ages ago.
 
 
-
-![virga in front of a dusk thunderstorm](https://www.zachmccabe.com/briars/assets/viz/11.jpg)
-
+<div style="margin:5em auto">
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/11.jpg" alt="virga in front of a dusk thunderstorm" /></p>
+</div>
 
 
 ## Work fast
@@ -50,9 +51,9 @@ Typically, I find a way to tell my story using subjects that don't scare off. So
 Usually, I loose daylight without having captured anything. Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later – I've got time.
 
 
-
-![nikon](https://www.zachmccabe.com/briars/assets/viz/6.jpg)
-
+<div style="margin:5em auto">
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/6.jpg" alt="nikon" /></p>
+</div>
 
 
 ## Touchscreen?
@@ -73,6 +74,4 @@ In addition to the usual field guides, [iNaturalist,](https://www.inaturalist.or
 
 ## Recharge
 
-When I can't possibly come up with another picture, I flip through that [notebook](https://www.zachmccabe.com/briars/about-briars.html#backstory) from my teacher and ask myself how Qi Baishi might see the view.
-
-![copperhead](https://www.zachmccabe.com/briars/assets/viz/2.jpg)
+When feel like I can't possibly come up with another picture, I flip through that [notebook](https://www.zachmccabe.com/briars/about-briars.html#backstory) from my teacher and ask myself how Qi Baishi might see the view.
