@@ -24,7 +24,7 @@ Briars is equal parts diary and social publishing experiment.
 Originally, images went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use the latter 2 platforms, but I am always tinkering with new venues for sharing the project.
 
 
-<div class="briarNAV">
+<div class="briarsNAV">
 
 Where would you like to see Briars next? Let me know: hello@zachmccabe.com
 
