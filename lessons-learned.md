@@ -34,7 +34,7 @@ Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox be
 
 New for this project is the "atomic unit" structure. 
 
-This was suggested to me by a friend, a designer. In design, this approach is used as a way to create a system that scales gracefully and efficiently. You divide information, content and structures into their most basic pieces and build out. See this article at [A List Apart](https://alistapart.com/article/language-of-modular-design) for more.
+This was suggested to me by a friend, a designer. In design, this approach is used as a way to create a system that scales gracefully and efficiently. You divide information, content and structures into their most basic pieces and build out. (*See this article at [A List Apart](https://alistapart.com/article/language-of-modular-design) for more.*)
 
 For Briars, the atomic unit is a dairy entry – one photo and any notes I'll need for caption writing. By using this model to organize my project, I hoped to:
 
