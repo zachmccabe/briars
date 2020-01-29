@@ -1,0 +1,52 @@
+---
+layout: kaoliang5_article
+title: About Laughing Lost in Briars
+date: 2020-01-28
+description: "You work on a ranch? *Why?*"
+
+---
+
+# About laughing lost in briars
+
+"You work on a ranch? *Why?*"
+
+Briars is now well into its 6th year. Measured in time or by image volume, this is the biggest photo project I've ever attempted.
+
+I guess 'why' has been a hard question to answer.
+
+
+![cicada on oak](https://www.zachmccabe.com/briars/assets/viz/5.jpg)
+
+![winter oak](https://www.zachmccabe.com/briars/assets/viz/8.jpg)
+
+
+Briars is equal parts diary and social publishing experiment. 
+
+Originally, images went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use the latter 2 platforms, but I am always tinkering with new venues for sharing the project.
+
+
+<div class="briarNAV">
+
+Where would you like to see Briars next? Let me know: hello@zachmccabe.com
+
+</div>
+
+
+Meanwhile, I'm still making the pictures:
+
+- Images are photographed in the vicinity of the ranch. See: [work fast](https://www.zachmccabe.com/briars/lessons-learned.html#work-fast)
+- All images from the project are made within my definition of [nonfiction.](https://www.zachmccabe.com/nonfiction)
+
+
+
+## Backstory
+
+It started with a chance reunion.
+
+During a visit, my childhood Chinese teacher gave me a notebook filled with details from the ink and brush paintings of [Qi Baishi.](https://en.wikipedia.org/wiki/Qi_Baishi) As a kid in China, Qi's crickets and cicadas were my favorite.
+
+
+--- some qi baishi jpg???
+
+
+You know those moments when you've lost something but before you've realized it's gone, someone surprises you by gracefully returning the missing object? *This* was one of those moments.
