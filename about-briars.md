@@ -6,7 +6,6 @@ description: "You work on a ranch? *Why?*"
 
 ---
 
-# About laughing lost in briars
 
 "You work on a ranch? *Why?*"
 
