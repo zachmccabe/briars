@@ -33,13 +33,16 @@ If you could keep a scent for yourself – to breathe in a quick sniff when you 
 
 On my first day back at the ranch, the bull headbutts me in the chest.
 
-He isn't evil. He is just old and impatient. And I am in his way. He is bigger than me. He is dangerously larger than me; he probably weighs as much as my old Toyota. I smack his cheek, this turns into a hug as he pushes his head into my chest again. Then, I'm scrambling on all fours – getting out of the way – and I notice that he's got blue eyes. I've never noticed that before.
+He isn't evil. He is just old and impatient. And I am in his way. 
 
+He is bigger than me. He is dangerously larger than me; he probably weighs as much as my old Toyota.
+
+I smack his cheek. Then I'm hugging him with both arms as he pushes his head into my chest again. Then, I'm scrambling on all fours to get out of the way.
 I laugh. I swear at him, “just trying to get you into that tasty, tall grass, you grouch.”
 
 He can smell that tall grass. He doesn't want my help.
 
-"Watch out for that bull," my boss' son warns me later. When he chases you, run in a zig zag to the nearest tree. "The nearest tree?" I ask, squinting at the open fields. Everybody here has been treed by a bull.
+"Watch out for that bull," my boss' son warns me later. When he chases you, run in a zig zag to the nearest tree. "The nearest tree?" I ask, squinting at the open fields.
 
 The bull is the same color as the clay under these fields. (A few miles from here, a brick maker tore up all the ancient oaks, the fields of grama grass and little bluestem to mine the red stuff.)
 
