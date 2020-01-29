@@ -1,6 +1,6 @@
 ---
 layout: kaoliang5_article
-title: A story from 
+title: A story
 date: 2020-01-28
 description: from Laughing Lost in Briars
 
@@ -20,13 +20,13 @@ If you could keep a scent for yourself – to breathe in a quick sniff when you 
 
 <div style="margin: 5em auto">
 
-![mantis on oak leaf](https://www.zachmccabe.com/briars/assets/viz/1.jpg)
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/1.jpg" alt="mantis on oak leaf" /></p>
 
-![storm over oak trees](https://www.zachmccabe.com/briars/assets/viz/3.jpg)
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/3.jpg" alt="storm over oak trees" /></p>
 
-![work gloves](https://www.zachmccabe.com/briars/assets/viz/7.jpg)
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/7.jpg" alt="work gloves" /></p>
 
-![copperhead](https://www.zachmccabe.com/briars/assets/viz/2.jpg)
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/2.jpg" alt="copperhead" /></p>
 
 </div>
 
