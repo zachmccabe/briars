@@ -26,13 +26,3 @@ Meanwhile, I'm still making the pictures:
 
 - Images are photographed in the vicinity of the ranch. See: [work fast.](https://www.zachmccabe.com/briars/lessons-learned.html#work-fast)
 - All images from the project are made within my definition of [nonfiction.](https://www.zachmccabe.com/nonfiction)
-
-
-
-## Backstory
-
-It started with a chance reunion.
-
-During a visit, my childhood Chinese teacher gave me a notebook filled with details from the ink and brush paintings of [Qi Baishi.](https://en.wikipedia.org/wiki/Qi_Baishi) As a kid in China, Qi's crickets and cicadas were my favorite.
-
-You know those moments when you've lost something but before you've realized it's gone, someone surprises you by gracefully returning the missing object? This was one of those moments.
