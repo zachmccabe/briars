@@ -13,11 +13,10 @@ Briars is now well into its 6th year. Measured in time or by image volume, this 
 
 I guess 'why' has been a hard question to answer.
 
-
-![cicada on oak](https://www.zachmccabe.com/briars/assets/viz/5.jpg)
-
-![winter oak](https://www.zachmccabe.com/briars/assets/viz/8.jpg)
-
+<div style="margin:5em auto">
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/5.jpg" alt="cicada on an oak" /></p>
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/8.jpg" alt="winter oak" /></p>
+</div>
 
 Briars is equal parts diary and social publishing experiment. 
 
