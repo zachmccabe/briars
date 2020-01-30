@@ -54,11 +54,13 @@ Obviously, when I started this project I had no idea where it would go, or that 
 
 ## Work fast
 
-I'm not at the ranch to take pictures. That is a privilege, it's not my job. If I'm at the ranch, work rarely stops for a photogenic moment: *A bobcat quiet as a ghost in the tall grass. The first morning the grama grass blossoms. A supercell building on the horizon.* Even when I can take a break, these moments appear and disappear like that bobcat.
+I'm not at the ranch to take pictures. That is a privilege, it's not my job.
 
-Typically, I find a way to tell my story using subjects that don't scare off. Sometimes, I find subjects elsewhere on my own time.
+When I'm at the ranch, work doesn't stop for the photogenic moments: *A bobcat quiet as a ghost in the tall grass. The first morning the grama grass blossoms. A supercell building on the horizon.* When I do take a break, moments appear and disappear like that bobcat. I work fast.
 
-Usually, I loose daylight without having captured anything. Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later. I don't like waiting but I've got time.
+Typically, I find a way to tell my story using subjects that don't scare off. I find subjects elsewhere on my own time, too. (Thankfully, there are a few, rare scraps of public land close by.)
+
+Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later. I've got time.
 
 
 <div style="margin:5em auto">
