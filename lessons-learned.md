@@ -4,8 +4,8 @@ title: Lessons learned
 date: 2020-01-28
 description: Project notes from Laughing Lost in Briars
 nav: |
-  + [Atomic unit](https://www.zachmccabe.com/briars/lessons-learned.html#atomic-unit)
   + [Work fast](https://www.zachmccabe.com/briars/lessons-learned.html#work-fast)
+  + [Atomic unit](https://www.zachmccabe.com/briars/lessons-learned.html#atomic-unit)
   + [Touchscreen?](https://www.zachmccabe.com/briars/lessons-learned.html#touchscreen)
   + [Keep learning](https://www.zachmccabe.com/briars/lessons-learned.html#keep-learning)
   + [Recharge](https://www.zachmccabe.com/briars/lessons-learned.html#recharge)
@@ -27,7 +27,19 @@ Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox be
 
 <div style="margin: 5em auto">
 <p><img src="https://www.zachmccabe.com/briars/assets/viz/9.jpg" alt="paintbrush flower closeup" /></p>
+<p><img src="https://www.zachmccabe.com/briars/assets/viz/11.jpg" alt="virga in front of a dusk thunderstorm" /></p>
 </div>
+
+
+## Work fast
+
+I'm not at the ranch to take pictures. That is a privilege, it's not my job.
+
+When I'm at the ranch, work doesn't stop for the photogenic moments: *A bobcat quiet as a ghost in the tall grass. The first morning the grama grass blossoms. A supercell building on the horizon.* When I do take a break, moments appear and disappear like that bobcat. I work fast.
+
+Typically, I find a way to tell my story using subjects that don't scare off. I find subjects elsewhere on my own time, too.
+
+Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later. I've got time.
 
 
 ## Atomic unit
@@ -44,23 +56,8 @@ For Briars, the atomic unit is a dairy entry – one photo and any notes I'll ne
 
 It has proved to be an invaluable conceptual tool, even if it shakes out a little differently when using pictures. 
 
-Obviously, when I started this project I had no idea where it would go, or that it'd still be growing years later. If I had tried to cram Briars into a traditional structure, like a photo essay, things would have fallen apart ages ago.
+When I started this project I had no idea where it would go, or that it'd still be growing years later. If I had tried to cram Briars into a traditional structure, like a photo essay, things would have fallen apart ages ago.
 
-
-<div style="margin:5em auto">
-<p><img src="https://www.zachmccabe.com/briars/assets/viz/11.jpg" alt="virga in front of a dusk thunderstorm" /></p>
-</div>
-
-
-## Work fast
-
-I'm not at the ranch to take pictures. That is a privilege, it's not my job.
-
-When I'm at the ranch, work doesn't stop for the photogenic moments: *A bobcat quiet as a ghost in the tall grass. The first morning the grama grass blossoms. A supercell building on the horizon.* When I do take a break, moments appear and disappear like that bobcat. I work fast.
-
-Typically, I find a way to tell my story using subjects that don't scare off. I find subjects elsewhere on my own time, too. (Thankfully, there are a few, rare scraps of public land close by.)
-
-Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later. I've got time.
 
 
 <div style="margin:5em auto">
