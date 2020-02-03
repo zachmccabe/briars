@@ -19,7 +19,7 @@ To sustain this project, I use what I've learned from previous big projects:
 - Keep the workflow simple.
 - Rely on the routine and workflow when mental bandwidth is limited.
 
-Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox before sharing via mobile phone. Any notes or captions are stored in TXT files alongside the images. There is no time for post-processing with a project like this.
+Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox before sharing via mobile phone. Any notes or captions are stored in TXT files alongside the images.
 
 
 {% include page_nav.html %}
