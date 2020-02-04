@@ -25,21 +25,20 @@ Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox be
 {% include page_nav.html %}
 
 
-<div style="margin: 5em auto">
-<p><img src="https://www.zachmccabe.com/briars/assets/viz/9.jpg" alt="paintbrush flower closeup" /></p>
-<p><img src="https://www.zachmccabe.com/briars/assets/viz/11.jpg" alt="virga in front of a dusk thunderstorm" /></p>
-</div>
-
-
 ## Work fast
 
-I'm not at the ranch to take pictures. That is a privilege, it's not my job.
+This project has a funny relationship with time.
 
-When I'm at the ranch, work doesn't stop for the photogenic moments: *A bobcat quiet as a ghost in the tall grass. The first morning the grama grass blossoms. A supercell building on the horizon.* When I do take a break, moments appear and disappear like that bobcat. I work fast.
+When I'm at the ranch, work doesn't stop for the photogenic moments. I'm not at the ranch to take pictures. That's a privilege. It's not my job.
 
-Typically, I find a way to tell my story using subjects that don't scare off. I find subjects elsewhere on my own time, too.
+During a break (or, more likely, after I'm done working for the day), I take time for pictures. Moments appear and then disappear like a bobcat moving through the tall grass. I work fast.
 
-Very few of the photos you've seen from this project were made when I first encountered the scene. Many are made seasons later. I've got time.
+Even so, I have to tell my story using subjects that don't scare off. Farm work can get pretty loud.
+
+I find subjects elsewhere on my own time, too.
+
+Very few of these photos were made when I first encountered the scene. Many are made seasons later. I've got time.
+
 
 
 ## Atomic unit
@@ -59,17 +58,20 @@ It has proved to be an invaluable conceptual tool, even if it shakes out a littl
 When I started this project I had no idea where it would go, or that it'd still be growing years later. If I had tried to cram Briars into a traditional structure, like a photo essay, things would have fallen apart ages ago.
 
 
-
+<!--
 <div style="margin:5em auto">
 <p><img src="https://www.zachmccabe.com/briars/assets/viz/6.jpg" alt="nikon" /></p>
 </div>
+-->
 
 
 ## Touchscreen?
 
-Although the first 3 years-worth of images were made with cell phones, I  switched to a hand-me-down Nikon point and shoot. It has an optical zoom. Most importantly, I can quickly adjust exposure settings using control wheels without having to take off my work gloves.
+Although the first 3 years-worth of images were made with cell phones, I switched to a hand-me-down Nikon point and shoot. It has an optical zoom. Most importantly, I can quickly adjust exposure settings using control wheels without having to take off my work gloves.
 
-It's a surprisingly hardy little camera. It's survived a toothy kiss from a copperhead, cow snot, and the usual heat, dust and rain, too. I keep the camera close by – either stowed in a ziplock bag in my pocket, or in a small Pelican case alongside my tools – because a camera is useless if you don't have it when you need it.
+It's probably obvious but electronics don't like sweat, dust or having fence posts dropped on them. That wee Nikon has survived cow snot, a toothy kiss from a copperhead and the kind of storms that set off the alarm on your wx radio.
+
+I keep the camera close by – either stowed in a ziplock bag in my pocket, or in a small Pelican case alongside my tools – because a camera is useless if you don't have it when you need it.
 
 
 
@@ -81,4 +83,10 @@ In addition to the usual field guides, [iNaturalist,](https://www.inaturalist.or
 
 ## Recharge
 
-When feel like I can't possibly come up with another picture, I flip through that [notebook](https://www.zachmccabe.com/briars/about-briars.html#backstory) and ask myself how Qi Baishi might see the view.
+During a visit, my childhood Chinese teacher gives me a notebook filled with details from the ink and brush paintings of [Qi Baishi.](https://en.wikipedia.org/wiki/Qi_Baishi)
+
+As a kid, Qi's crickets and cicadas were my favorite. His work was so different to anything I'd ever seen. It made me smile. It still does.
+
+My old teacher doesn't know anything about that. Nevertheless, when she hands me that notebook, she sparks an idea.
+
+When feel like I can't possibly come up with another picture, I flip through that notebook and ask myself how Qi Baishi might see the view.
