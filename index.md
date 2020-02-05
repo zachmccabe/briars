@@ -6,7 +6,7 @@ description: images from Laughing Lost in Briars
 
 ---
 
-
+<p>
 <picture>
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.webp" type="image/webp">
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.webp" type="image/webp">
@@ -14,19 +14,21 @@ description: images from Laughing Lost in Briars
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.jpg" type="image/jpeg">
   <img src="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.jpg" alt="Mantis on an oak leaf">
 </picture>
-
+</p>
+<p>
 <picture>
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-02-6c.webp" type="image/webp">
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-02-6c.jpg" type="image/jpeg">
   <img src="https://www.zachmccabe.com/briars/assets/viz/briars-02-6c.jpg" alt="Low storm cloud over oak trees">
 </picture>
-
+</p>
+<p>
 <picture>
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-03-6c.webp" type="image/webp">
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-03-6c.jpg" type="image/jpeg">
   <img src="https://www.zachmccabe.com/briars/assets/viz/briars-03-6c.jpg" alt="Copperhead hidden in briars">
 </picture>
-
+</p>
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
