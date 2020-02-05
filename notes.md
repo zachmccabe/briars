@@ -51,9 +51,9 @@ This was suggested to me by a friend, a designer. In design, this approach is us
 
 For Briars, the atomic unit is a dairy entry – one photo and any notes I'll need for caption writing. By using this model to organize my project, I hoped to:
 
-- Jump between social media platforms, i.e. Instagram, WeChat etc
-- Switch between languages, i.e. Chinese and English
-- Scale the project up over time
+- Jump between social media platforms, i.e. Instagram, WeChat etc.
+- Switch between languages, i.e. Chinese and English.
+- Scale the project up over time.
 
 It has proved to be an invaluable conceptual tool, even if it shakes out a little differently when using pictures. 
 
