@@ -69,11 +69,16 @@ When I started this project I had no idea where it would go, or that it'd still 
 
 ## Touchscreen?
 
-Although the first 3 years-worth of images were made with cell phones, I switched to a hand-me-down Nikon point and shoot. It has an optical zoom. Most importantly, I can quickly adjust exposure settings using control wheels without having to take off my work gloves.
 
-It's probably obvious but electronics don't like sweat, dust or having fence posts dropped on them. That wee Nikon has survived cow snot, a toothy kiss from a copperhead and the kind of storms that set off the alarm on your wx radio.
+Portability matters with this project. The technical aspects of image quality less so.
 
-I keep the camera close by – either stowed in a ziplock bag in my pocket, or in a small Pelican case alongside my tools – because a camera is useless if you don't have it when you need it.
+The first 3 years-worth of images were made with cell phones. I switched to a hand-me-down Nikon point and shoot later on. I can quickly adjust exposure settings using physical control wheels and buttons without having to take off my work gloves.
+
+It's probably obvious but electronics don't like sweat, dust or having fence posts dropped on them. Ranch conditions have killed 3 of my cell phones.
+
+That wee Nikon has survived cow snot, a toothy kiss from a copperhead and the kind of storms that set off the alarm on your WX radio. It still mostly works, too.
+
+I keep the camera close by – either stowed in a Loksak bag in my pocket, or in a small Pelican case alongside my tools.
 
 
 
