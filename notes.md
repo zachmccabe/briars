@@ -1,14 +1,14 @@
 ---
 layout: kaoliang5_article
-title: Lessons learned
+title: Notes
 date: 2020-01-28
 description: Project notes from Laughing Lost in Briars
 nav: |
-  + [Work fast](https://www.zachmccabe.com/briars/lessons-learned.html#work-fast)
-  + [Atomic unit](https://www.zachmccabe.com/briars/lessons-learned.html#atomic-unit)
-  + [Touchscreen?](https://www.zachmccabe.com/briars/lessons-learned.html#touchscreen)
-  + [Keep learning](https://www.zachmccabe.com/briars/lessons-learned.html#keep-learning)
-  + [Recharge](https://www.zachmccabe.com/briars/lessons-learned.html#recharge)
+  + [Work fast](https://www.zachmccabe.com/briars/notes.html#work-fast)
+  + [Atomic unit](https://www.zachmccabe.com/briars/notes.html#atomic-unit)
+  + [Touchscreen?](https://www.zachmccabe.com/briars/notes.html#touchscreen)
+  + [Keep learning](https://www.zachmccabe.com/briars/notes.html#keep-learning)
+  + [Recharge](https://www.zachmccabe.com/briars/notes.html#recharge)
 
 ---
 
