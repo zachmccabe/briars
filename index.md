@@ -1,6 +1,6 @@
 ---
 layout: kaoliang5_article
-title: Laughing lost in briars
+title: Laughing Lost in Briars
 date: 2020-01-28
 description: images from Laughing Lost in Briars
 
@@ -15,11 +15,22 @@ description: images from Laughing Lost in Briars
   <img src="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.jpg" alt="Mantis on an oak leaf">
 </picture>
 
+<picture>
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-02-6c.webp" type="image/webp">
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-02-6c.jpg" type="image/jpeg">
+  <img src="https://www.zachmccabe.com/briars/assets/viz/briars-02-6c.jpg" alt="Low storm cloud over oak trees">
+</picture>
+
+<picture>
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-03-6c.webp" type="image/webp">
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-03-6c.jpg" type="image/jpeg">
+  <img src="https://www.zachmccabe.com/briars/assets/viz/briars-03-6c.jpg" alt="Copperhead hidden in briars">
+</picture>
 
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
-I do this to remind myself of the remarkable worlds that are right in front of me. Call it whatever you like -- meditation, gratitude, delight. Figured I could bring a few friends along for the ride.
+I do this to remind myself of the remarkable worlds that are right in front of me. Call it whatever you like -- meditation, gratitude, delight. Figured I'd bring a few friends along for the ride.
 
 
 ---
