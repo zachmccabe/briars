@@ -17,9 +17,11 @@ To sustain this project, I use what I've learned from previous big projects:
 
 - Set up a production routine.
 - Keep the workflow simple.
-- Rely on the routine and workflow when mental bandwidth is limited.
+- Lean on the routine when mental bandwidth is limited.
 
-Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox before sharing via mobile phone. Any notes or captions are stored in TXT files alongside the images.
+Pictures are made on the ranch where I work as a hand, or nearby.
+
+All images are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox before sharing via mobile phone. Any notes or captions are stored in TXT files alongside the images.
 
 
 {% include page_nav.html %}
