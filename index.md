@@ -18,7 +18,7 @@ description: images from Laughing Lost in Briars
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
-I do this to remind myself of the remarkable worlds that are right in front of me. Call it whatever you like -- meditation, gratitude, delight. Figured I'd bring a few friends along for the ride.
+I do this to remind myself of the remarkable worlds that are right in front of me. Call it whatever you like -- meditation, gratitude, delight. Figured I could bring a few friends along for the ride.
 
 
 ---
