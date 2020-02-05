@@ -6,7 +6,7 @@ description: images from Laughing Lost in Briars
 
 ---
 
-<div style="margin:0 auto 5em;">
+<div style="margin:0 auto 5em; width=100%">
 <picture>
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.webp" type="image/webp">
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.webp" type="image/webp">
