@@ -6,15 +6,16 @@ description: images from Laughing Lost in Briars
 
 ---
 
-<!--
-<p><img src="https://www.zachmccabe.com/briars/assets/viz/1.jpg" alt="mantis on oak leaf" /></p>
 
-<p><img src="https://www.zachmccabe.com/briars/assets/viz/3.jpg" alt="storm over oak trees" /></p>
+<picture>
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.webp" type="image/webp">
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.webp" type="image/webp">
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.jpg" type="image/jpeg">
+  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.jpg" type="image/jpeg">
+  <img src="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.jpg" alt="Mantis on an oak leaf">
+</picture>
 
-<p><img src="https://www.zachmccabe.com/briars/assets/viz/7.jpg" alt="work gloves" /></p>
 
-<p><img src="https://www.zachmccabe.com/briars/assets/viz/2.jpg" alt="copperhead" /></p>
--->
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
