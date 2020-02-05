@@ -136,14 +136,14 @@ figcaption {
   padding: 1em 0 1em;
   text-align: left;
 }
-
+/*
 img {
   height: auto;
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
 }
-
+*/
 img[src$=".gif"] {
   height: auto;
   width: 100%;
