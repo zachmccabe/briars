@@ -6,13 +6,14 @@ description: images from Laughing Lost in Briars
 
 ---
 
-<div style="margin:0 auto 5em; padding=0">
+Briars is 1 part diary, 1 part social publishing experiment.
+
+
+<div style="margin:5em auto; padding=0">
 <picture>
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.webp" type="image/webp">
-  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.webp" type="image/webp">
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.jpg" type="image/jpeg">
-  <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.jpg" type="image/jpeg">
-  <img src="https://www.zachmccabe.com/briars/assets/viz/briars-01-1k.jpg" alt="Mantis on an oak leaf">
+  <img src="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.jpg" alt="Mantis on an oak leaf">
 </picture>
 <picture>
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-02-6c.webp" type="image/webp">
@@ -26,7 +27,6 @@ description: images from Laughing Lost in Briars
 </picture>
 </div>
 
-Briars is 1 part diary, 1 part social publishing experiment.
 
 Call it what you like -- meditation, gratitude, delight. I do this to remind myself of the remarkable worlds that are right in front of me. Figured I'd bring a few friends along for the ride.
 
