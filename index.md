@@ -28,7 +28,7 @@ description: images from Laughing Lost in Briars
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
-I do this to remind myself of the remarkable worlds that are right in front of me. Call it whatever you like -- meditation, gratitude, delight. Figured I'd bring a few friends along for the ride.
+Call it what you like -- meditation, gratitude, delight. I do this to remind myself of the remarkable worlds that are right in front of me. Figured I'd bring a few friends along for the ride.
 
 
 ---
@@ -43,6 +43,7 @@ Initially, this project went out to friends via direct message, then to friends 
 
 
 
-- All pictures in this project fit inside my definition of [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
-- Notes on my process and what I've learned are [here.](https://www.zachmccabe.com/briars/notes.html)
+All pictures in this project fit inside my definition of [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
+
+Notes on my process and what I've learned are [here.](https://www.zachmccabe.com/briars/notes.html)
 
