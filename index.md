@@ -8,7 +8,7 @@ description: images from Laughing Lost in Briars
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
-
+<!--
 <div style="margin:5em auto; padding=0">
 <picture>
   <source srcset="https://www.zachmccabe.com/briars/assets/viz/briars-01-6c.webp" type="image/webp">
@@ -26,7 +26,7 @@ Briars is 1 part diary, 1 part social publishing experiment.
   <img src="https://www.zachmccabe.com/briars/assets/viz/briars-03-6c.jpg" alt="Copperhead hidden in briars">
 </picture>
 </div>
-
+-->
 
 Call it what you like -- meditation, gratitude, delight. I do this to remind myself of the remarkable worlds that are right in front of me. Figured I'd bring a few friends along for the ride.
 
@@ -43,7 +43,6 @@ Initially, this project went out to friends via direct message, then to friends 
 
 
 
-All pictures in this project fit inside my definition of [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
-
-Notes on my process and what I've learned are [here.](https://www.zachmccabe.com/briars/notes.html)
+- All pictures in this project fit inside my definition of [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
+- Notes on my process and what I've learned are [here.](https://www.zachmccabe.com/briars/notes.html)
 
