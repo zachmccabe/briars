@@ -214,10 +214,8 @@ a {
 }
 
 aside, blockquote {
-  border-left: 0.05rem solid currentColor;
-  font-size: 85%;
+  color: #202a30;
   margin-left: 0;
-  padding: 0.5rem;
 }
 
 aside + h2, h3, h4 {
