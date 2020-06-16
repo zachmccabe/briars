@@ -4,25 +4,23 @@ title: Project notes from Laughing Lost in Briars
 date: 2020-05-25
 description: Project notes from Laughing Lost in Briars
 nav: |
-  +[Keeping a diary](https://www.zachmccabe.com/briars/notes.html#keeping-a-diary)
-  +[Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
-  +[Researching the story](https://www.zachmccabe.com/briars/notes.html#researching-the-story)
-  +[Structuring the story](https://www.zachmccabe.com/briars/notes.html#structuring-the-story)
-  +[Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
-  +[Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
+  + [Keeping a diary](https://www.zachmccabe.com/briars/notes.html#keeping-a-diary)
+  + [Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
+  + [Researching the story](https://www.zachmccabe.com/briars/notes.html#researching-the-story)
+  + [Structuring the story](https://www.zachmccabe.com/briars/notes.html#structuring-the-story)
+  + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
+  + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
 
 ---
 
 
-{% include print_update.html %} • These notes explain my creative and technical process.
+{% include print_update.html %} • Explaining my creative and technical process.
+
+Briars is [nonfiction.] These pictures are made as a diary. The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals. The project is shared with friends via social channels.
 
 "You work on a ranch? *But why?*"
 
-Briars is now well into its 7th year (2020). Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
-
-Maybe it's been a hard question to answer.
-
-Briars is [nonfiction.] These pictures are made as a diary. The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals. The project is shared with friends via social channels.
+Maybe that's been a hard question to answer. Briars is now well into its 7th year (2020). Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
 
 [nonfiction.]: https://www.zachmccabe.com/nonfiction
 
