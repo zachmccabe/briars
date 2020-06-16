@@ -58,7 +58,7 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 
 ## Researching the story
 
-In addition to the usual field guides, and [iNaturalist,](https://www.inaturalist.org/), Texas Master Naturalists and the Ag extension have been great resources for learning more about the ecosystem processes happening in front of me.
+In addition to the usual field guides, and [iNaturalist,] Texas Master Naturalists and the Ag extension have been great resources for learning more about the ecosystem processes happening in front of me.
 
 Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
 
@@ -67,6 +67,8 @@ Studying natural history helps me make meaningful pictures. It improves my chanc
 - When working in close proximity to things that bite, kick, or shove back, work with deliberate, slow movements.
 
 - One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. I focus on physical proximity to my subject and the creature's body language. I trust the composition will be good enough.
+
+[iNaturalist,]: https://www.inaturalist.org/
 
 
 
