@@ -177,6 +177,38 @@ th, td {
 
 
 
+/* PICLIST use a list to display pictures, thumbnails */
+
+.piclist ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.piclist li {
+display: inline;
+margin: 0;
+padding: 0;
+}
+
+.piclist a {
+text-decoration: none;
+}
+
+.piclist3 {
+width: 30%;
+margin: 0;
+padding: 0;
+}
+
+.piclist2 {
+width: 46%;
+margin: 0;
+padding: 0;
+}
+
+
+
 /* TYPOGRAPHY */
 
 h1, h2, h3, h4 {
