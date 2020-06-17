@@ -18,13 +18,9 @@ Updated: {% include print_update.html %} • Explaining my creative and technica
 
 Briars is [nonfiction.] These pictures are made as a diary. The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals. The project is shared with friends via social channels.
 
-
-{% include srcset.html fbase="foo" class="xyz" alt="bar" %}
-
-
 "You work on a ranch? But *why*?"
 
-Maybe that's been a hard question to answer. Briars is now well into its 7th year (2020). Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
+Maybe it's been a hard question to answer. Briars is now well into its 7th year (2020). Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
 
 [nonfiction.]: https://www.zachmccabe.com/nonfiction
 
@@ -43,6 +39,16 @@ The primary audience for this project is friends in China. We grew up in some of
 The bulk of this project has been published through social platforms -- and there is no time for precious subtleties in that environment.
 
 When I frame the scene, select one picture over another, or write a caption I do my best to remember this. I want to keep it real.
+
+
+
+<div class="piclist">
+  <ul>
+    <li>{% include srcset.html fbase="briars-1" class="piclist3" alt="Thumbnail, mantis on oak leaf" %}</li>
+    <li>{% include srcset.html fbase="briars-2" class="piclist3" alt="Thumbnail, low scud clouds and rain during a thunderstorm" %}</li>
+    <li>{% include srcset.html fbase="briars-3" class="piclist3" alt="Thumbnail, copperhead on oak litter" %}</li>
+  </ul>
+</div>
 
 
 
@@ -104,6 +110,10 @@ The atomic unit has become an invaluable conceptual tool for Briars. This projec
 
 Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.
 
+
+11 virga
+sycamore
+cameras
 
 
 ## Tools and cameras
