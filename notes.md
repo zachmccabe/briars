@@ -14,11 +14,15 @@ nav: |
 ---
 
 
-{% include print_update.html %} • Explaining my creative and technical process.
+Updated: {% include print_update.html %} • Explaining my creative and technical process.
 
 Briars is [nonfiction.] These pictures are made as a diary. The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals. The project is shared with friends via social channels.
 
-"You work on a ranch? *But why?*"
+
+{% include srcset.html fbase="foo" alt="bar" %}
+
+
+"You work on a ranch? But *why*?"
 
 Maybe that's been a hard question to answer. Briars is now well into its 7th year (2020). Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
 
@@ -32,7 +36,7 @@ Maybe that's been a hard question to answer. Briars is now well into its 7th yea
 
 ## Keeping a diary
 
-For Briars, like with any story, nonfiction is defined by how you interact with 1. Your subject, and 2. Your audience.
+For Briars, like with any story, nonfiction is defined by how you interact with: 1. Your subject, and 2. Your audience.
 
 The primary audience for this project is friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
 
