@@ -1,11 +1,3 @@
+{% assign url = "https://www.zachmccabe.com/briars/assets/viz/" %}
 
-{% assign url="https://www.zachmccabe.com/briars/assets/viz/" %}
-<img
- srcset="
-   {{ include.fbase | prepend: "url" }}-150.jpg 150w,
-   {{ include.fbase | prepend: "url" }}-350.jpg 350w,
-   {{ include.fbase | prepend: "url" }}-500.jpg 500w,
-   {{ include.fbase | prepend: "url" }}-1000.jpg 1000w,
-"
-src="{{ include.fbase | prepend: "url" }}-500.jpg"
-alt="{{ include.alt }}">
+<img srcset="{{ include.fbase | prepend: "url" }}-150.jpg 150w, {{ include.fbase | prepend: "url" }}-350.jpg 350w, {{ include.fbase | prepend: "url" }}-500.jpg 500w, {{ include.fbase | prepend: "url" }}-1000.jpg 1000w," src="{{ include.fbase | prepend: "url" }}-500.jpg" alt="{{ include.alt }}">
