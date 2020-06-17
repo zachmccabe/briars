@@ -19,7 +19,7 @@ Updated: {% include print_update.html %} • Explaining my creative and technica
 Briars is [nonfiction.] These pictures are made as a diary. The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals. The project is shared with friends via social channels.
 
 
-{% include srcset.html fbase="foo" alt="bar" %}
+{% include srcset.html fbase="foo" class="xyz" alt="bar" %}
 
 
 "You work on a ranch? But *why*?"
