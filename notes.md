@@ -4,8 +4,8 @@ title: Project notes from Laughing Lost in Briars
 date: 2020-05-25
 description: Project notes from Laughing Lost in Briars
 nav: |
-  + [Keeping a diary](https://www.zachmccabe.com/briars/notes.html#keeping-a-diary)
   + [Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
+  + [Keeping it real](https://www.zachmccabe.com/briars/notes.html#keeping-it-real)
   + [Researching the story](https://www.zachmccabe.com/briars/notes.html#researching-the-story)
   + [Structuring the story](https://www.zachmccabe.com/briars/notes.html#structuring-the-story)
   + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
@@ -14,15 +14,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • Explaining my creative and technical process.
-
-Briars is [nonfiction.] These pictures are made as a diary. The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals. The project is shared with friends via social channels.
-
-"You work on a ranch? But *why*?"
-
-Maybe it's been a hard question to answer. Briars is now well into its 7th year (2020). Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
-
-[nonfiction.]: https://www.zachmccabe.com/nonfiction
+Updated: {% include print_update.html %} • Explaining my creative and technical process. Briars is now well into its 7th year. Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
 
 
 
@@ -30,39 +22,33 @@ Maybe it's been a hard question to answer. Briars is now well into its 7th year 
 
 
 
-## Keeping a diary
-
-For Briars, like with any story, nonfiction is defined by how you interact with: 1. Your subject, and 2. Your audience.
-
-The primary audience for this project is friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
-
-The bulk of this project has been published through social platforms -- and there is no time for precious subtleties in that environment.
-
-When I frame the scene, select one picture over another, or write a caption I do my best to remember this. I want to keep it real.
-
-
-
-<div class="piclist">
-  <ul>
-    <li>{% include srcset.html fbase="briars-1" class="piclist3" alt="Thumbnail, mantis on oak leaf" %}</li>
-    <li>{% include srcset.html fbase="briars-2" class="piclist3" alt="Thumbnail, low scud clouds and rain during a thunderstorm" %}</li>
-    <li>{% include srcset.html fbase="briars-3" class="piclist3" alt="Thumbnail, copperhead on oak litter" %}</li>
-  </ul>
-</div>
-
-
-
 ## Project inspiration
 
-During a visit to the US, my childhood Chinese teacher gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
+The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals.
 
-As a kid, Qi's crickets and cicadas were my favorite. His work was so different to anything I'd ever seen. It made me smile. It still does.
+During a visit to the US, my childhood Chinese teacher (who is a jet-setting consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
-My teacher didn't know anything about that but when she handed me that notebook, she gave me an idea.
+As a kid, Qi's crickets and cicadas were my favorite. His work was so different to anything I'd ever seen. It made me smile. It still does. My teacher didn't know anything about that. When she handed me that notebook, she gave me an idea nevertheless. That was the moment when Briars got its start.
 
 Even now, when feel like I can't possibly come up with another picture, I flip through that notebook and ask myself how Qi Baishi might see the view.
 
-[Qi Bai Shi's]: https://en.wikipedia.org/wiki/Qi_Baishi
+[Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
+
+
+
+## Keeping it real
+
+These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by how you interact with: 1. Your subject, and 2. Your audience.
+
+The primary audience for this project is friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
+
+This project is published through social platforms and instant messaging. (Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
+
+Viewed on a phone, these small scale images need to have low information density -- I want a concise message and a composition that works at 600px 1:1 while, e.g. the viewer is on her morning bus ride to work. There is no time for precious subtlety in that environment.
+
+When I frame the scene, select one picture over another, or write a caption I do my best to remember this. I want to keep it real.
+
+[nonfiction.]: https://www.zachmccabe.com/nonfiction
 
 
 
@@ -73,9 +59,7 @@ In addition to the usual field guides, and [iNaturalist,] Texas Master Naturalis
 Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
 
 - Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
-
 - When working in close proximity to things that bite, kick, or shove back, work with deliberate, slow movements.
-
 - One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. I focus on physical proximity to my subject and the creature's body language. I trust the composition will be good enough.
 
 [iNaturalist,]: https://www.inaturalist.org/
@@ -86,9 +70,7 @@ Studying natural history helps me make meaningful pictures. It improves my chanc
 
 New for this project is the "atomic unit" structure. 
 
-This was suggested to me by a friend, who is a designer. This model is used in design as a way to scale up efficiently. The idea is to divide information and interfaces down into their most basic pieces and build out from those elements -- hence the physics metaphor.
-
-For more, see this article at [A List Apart.](https://alistapart.com/article/language-of-modular-design)
+This was suggested to me by a friend, who is a designer. This model is used in design as a way to scale up efficiently. The idea is to divide information and interfaces down into their most basic pieces and build out from those elements -- hence the physics metaphor. For more, see this article at [A List Apart.](https://alistapart.com/article/language-of-modular-design)
 
 With Briars, the atomic unit is simply a dairy entry – one picture and any notes I'll need for caption writing.
 
@@ -104,21 +86,17 @@ The atomic unit has become an invaluable conceptual tool for Briars. This projec
 
 ## Publishing workflow
 
-1. Pictures are shot as JPG, then cropped 1:1 in Photo Mechanic. Any notes or captions are stored in TXT files alongside the images.
+1. Briars is shot with an emphasis on quick turn around. Pictures are shot as JPG, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in TXT files alongside the images.
 
-2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing. Previously, I uploaded everything to Dropbox.
+2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox. And I have used Snapseed on my phone to tweak white balance on a couple special pictures that would have been trashed otherwise. 😁 Nobody's perfect, hey?
 
-Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.
+Because social platforms employ their own algorithms to optimize images, I simply give them the cropped JPG so there is plenty of data to use. However, for this website, I use Nik Output Sharpener on my Mac to prep JPG files.
 
-
-11 virga
-sycamore
-cameras
 
 
 ## Tools and cameras
 
-Portability matters with this project. The technical aspects of image quality less so.
+Portability matters with this project; the technical aspects of image quality less so.
 
 ### Cameras
 
