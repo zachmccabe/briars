@@ -48,7 +48,7 @@ Viewed on a phone, these small scale images need to have low information density
 
 When I frame the scene, select one picture over another, or write a caption I do my best to remember this. I want to keep it real.
 
-[nonfiction.]: https://www.zachmccabe.com/nonfiction
+[nonfiction]: https://www.zachmccabe.com/nonfiction
 
 
 
