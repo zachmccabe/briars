@@ -54,7 +54,6 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 -->
 
 
-{% include leaf.html %}
 
 
 ## Keeping it real
