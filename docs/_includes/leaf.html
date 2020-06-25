@@ -2,14 +2,6 @@
 
 {% capture leaf %}{{ include.page.leaf1 }}{% endcapture %}
 
-{% if include.leaf %}
-   
-  <ul>
-    <li>
-        {% include srcset.html fbase="{{ include.leaf.fbase }}" class="{{ include.leaf.class }}" alt="{{ include.leaf.alt }}" %}
-    </li>
-  </ul>
-    
-{% endif %}
+{{ leaf }}   
 
 </div>
