@@ -52,12 +52,11 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
 
-{% assign leaf=page.leaf1 %}
-{% if leaf %}   
-<div class="leafy3">
+{% if page.leaf1 %}   
+<div class="leafy4">
   <ul>
     <li>
-        {% include srcset.html fbase="{{ leaf.fbase }}" class="{{ leaf.class }}" alt="{{ leaf.alt }}" %}
+        {% include srcset.html fbase="{{ page.leaf1.fbase }}" class="{{ page.leaf1.class }}" alt="{{ page.leaf1.alt }}" %}
     </li>
   </ul>
 </div>
