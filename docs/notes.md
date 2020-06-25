@@ -56,13 +56,7 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 <div class="leafy11">
   <ul>
     <li>
-      {{ leaf.fbase }}
-    </li>
-    <li>
-        {{ leaf.class }}
-    </li>
-    <li>
-      {{ leaf.alt }}
+      {% include srcset.html fbase=leaf.fbase class=leaf.class alt=leaf.alt %}
     </li>
   </ul>
 </div>
