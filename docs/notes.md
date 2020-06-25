@@ -11,18 +11,21 @@ nav: |
   + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
   + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
 leaf1:
-  - class: oaky
   - fbase: leaf-file-1
+  - class: leafx2
   - alt: leaf-alt-1
   - fbase: leaf-file-2
+  - class: leafx2
   - alt: leaf-alt-2
 leaf2:
-  - class: hickory
   - fbase: leaf-file-3
+  - class: leafx3
   - alt: leaf-alt-3
   - fbase: leaf-file-4
+  - class: leafx3
   - alt: leaf-alt-4
   - fbase: leaf-file-5
+  - class: leafx3
   - alt: leaf-alt-5
 
 ---
@@ -49,11 +52,7 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
 
-<!--
-{% include figure.html alt="Some alt" caption="Some caption" class="some-class" fbase="some-file" %}
--->
-
-
+{{ leaf1 }}
 
 
 ## Keeping it real
