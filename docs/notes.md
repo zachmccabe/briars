@@ -53,7 +53,7 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 {% include figure.html alt="Some alt" caption="Some caption" class="some-class" fbase="some-file" %}
 -->
 
-{% include leaf.html leaf=page.leaf1 %}
+
 
 
 ## Keeping it real
