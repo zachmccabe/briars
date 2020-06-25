@@ -52,15 +52,15 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
 
-{% if page.leaf1 %}   
-<div class="leafy5">
+{% for item in page.leaf1 %}   
+<div class="leafy6">
   <ul>
     <li>
         {{ page.leaf1 }}
     </li>
   </ul>
 </div>
-{% endif %}
+{% endfor %}
 
 
 
