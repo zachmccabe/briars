@@ -1,13 +1,10 @@
-<div class="leafy2">
-
-{% if include.leaf %}
-   
+<div class="leafy13">
   <ul>
+    {% for leaf in includes.leaf %} 
     <li>
-        {% include srcset.html fbase="{{ include.leaf.fbase }}" class="{{ include.leaf.class }}" alt="{{ include.leaf.alt }}" %}
+      {% include srcset.html fbase=leaf.fbase class=leaf.class alt=leaf.alt %}
     </li>
+    {% endfor %}
   </ul>
-    
-{% endif %}
-
 </div>
+
