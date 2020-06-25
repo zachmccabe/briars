@@ -1,6 +1,6 @@
 <div class="kaoLEAF">
 
-{% assign leaf={{ include.leaf }} %}
+{% capture leaf %}{{ include.leaf }}{% endcapture %}
 
 {% if include.leaf  %}
    
