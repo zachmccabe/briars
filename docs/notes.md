@@ -71,6 +71,10 @@ When I frame the scene, select one picture over another, or write a caption I do
 
 
 
+{% include leaf.html leaf=page.leaf2 %}
+
+
+
 ## Researching the story
 
 In addition to the usual field guides, and [iNaturalist,] Texas Master Naturalists and the Ag extension have been great resources for learning more about the ecosystem processes happening in front of me.
