@@ -2,9 +2,7 @@
 {% for leaf in include.leaf %}
   <div class="{{ leaf.class }}">
     <p>
-      {% for leaf.fbase %}
         {% include srcset.html fbase="{{ leaf.fbase }}" alt="{{ leaf.alt }}" %}
-      {% endfor %}
     </p>
   </div>
 {% endfor %}
