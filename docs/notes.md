@@ -52,7 +52,7 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
 
-{{ leaf1 }}
+{{ page.leaf1 }}
 
 
 ## Keeping it real
