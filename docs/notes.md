@@ -53,7 +53,15 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 
 
 {% assign leaf=page.leaf1 %}
-{% include leaf.html %}
+{% if leaf %}   
+<div class="leafy3">
+  <ul>
+    <li>
+        {% include srcset.html fbase="{{ leaf.fbase }}" class="{{ leaf.class }}" alt="{{ leaf.alt }}" %}
+    </li>
+  </ul>
+</div>
+{% endif %}
 
 
 
