@@ -53,16 +53,16 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 
 
 {% for item in page.leaf1 %}   
-<div class="leafy7">
+<div class="leafy8">
   <ul>
     <li>
-      {{ fbase }}
+      {{ leaf1.fbase }}
     </li>
     <li>
-      {{ class }}        
+      {{ leaf1.class }}        
     </li>
     <li>
-      {{ alt }}
+      {{ leaf1.alt }}
     </li>
   </ul>
 </div>
