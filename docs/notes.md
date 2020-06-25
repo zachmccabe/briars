@@ -56,13 +56,13 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 <div class="leafy7">
   <ul>
     <li>
-      {{ page.leaf1.fbase }}
+      {{ fbase }}
     </li>
     <li>
-      {{ page.leaf1.class }}        
+      {{ class }}        
     </li>
     <li>
-      {{ page.leaf1.alt }}
+      {{ alt }}
     </li>
   </ul>
 </div>
