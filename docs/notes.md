@@ -10,6 +10,12 @@ nav: |
   + [Structuring the story](https://www.zachmccabe.com/briars/notes.html#structuring-the-story)
   + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
   + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
+leaf1:
+  - class: leaf-class-oak
+    - fbase: leaf-file-1
+      alt: leaf-alt-1
+    - fbase: leaf-file-2
+      alt: leaf-alt-2
 
 ---
 
