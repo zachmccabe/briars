@@ -106,11 +106,11 @@ The atomic unit has become an invaluable conceptual tool for Briars. This projec
 
 ## Publishing workflow
 
-1. Briars is shot with an emphasis on quick turn around. Pictures are shot as JPG, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in TXT files alongside the images.
+1. Briars is shot with an emphasis on quick turn around. Pictures are nearly always shot as JPG, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in TXT files alongside the images.
 
-2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox. And I have used Snapseed on my phone to tweak white balance on a couple special pictures that would have been trashed otherwise. 😁 Nobody's perfect, hey?
+2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox.
 
-Because social platforms employ their own algorithms to optimize images, I simply give them the cropped JPG so there is plenty of data to use. However, for this website, I use Nik Output Sharpener on my Mac to prep JPG files.
+Because social platforms employ their own algorithms to optimize images, I simply give them a full-resolution, 1:1 crop of the image so there is plenty of data to use. However, for this website, I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files.
 
 
 
