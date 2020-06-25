@@ -12,21 +12,21 @@ nav: |
   + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
 leaf1:
   - fbase: leaf-file-1
-  - class: leafx2
-  - alt: leaf-alt-1
+    class: leafx2
+    alt: leaf-alt-1
   - fbase: leaf-file-2
-  - class: leafx2
-  - alt: leaf-alt-2
+    class: leafx2
+    alt: leaf-alt-2
 leaf2:
   - fbase: leaf-file-3
-  - class: leafx3
-  - alt: leaf-alt-3
+    class: leafx3
+    alt: leaf-alt-3
   - fbase: leaf-file-4
-  - class: leafx3
-  - alt: leaf-alt-4
+    class: leafx3
+    alt: leaf-alt-4
   - fbase: leaf-file-5
-  - class: leafx3
-  - alt: leaf-alt-5
+    class: leafx3
+    alt: leaf-alt-5
 
 ---
 
@@ -53,16 +53,10 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 
 
 {% if page.leaf1 %}   
-<div class="leafy4">
+<div class="leafy5">
   <ul>
     <li>
-        {{ page.leaf1.fbase }}
-    </li>
-    <li>
-        {{ page.leaf1.class }}
-    </li>
-    <li>
-        {{ page.leaf1.alt }}
+        {{ page.leaf1 }}
     </li>
   </ul>
 </div>
