@@ -53,6 +53,8 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 {% include figure.html alt="Some alt" caption="Some caption" class="some-class" fbase="some-file" %}
 -->
 
+{% include leaf.html leaf=page.leaf1%}
+
 ## Keeping it real
 
 These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by how you interact with: 1. Your subject, and 2. Your audience.
