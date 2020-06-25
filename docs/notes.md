@@ -54,7 +54,7 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 -->
 
 
-{{ page.leaf1 }}
+{% include leaf.html %}
 
 
 ## Keeping it real
