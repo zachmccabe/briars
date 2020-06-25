@@ -1,0 +1,10 @@
+
+{% for leaf in include.leaf %}
+  <div class="{{ leaf.class }}">
+  <p>
+  {% if leaf.fbase %}
+    {% include srcset.html fbase="leaf.fbase" alt="leaf.alt" %}
+  {% endif %}
+  </p>
+  </div>
+{% endfor %}
