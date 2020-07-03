@@ -12,20 +12,20 @@ nav: |
   + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
 leaf1:
   - fbase: leaf-file-1
-    class: leafx2
+    class: leafy2
     alt: leaf-alt-1
   - fbase: leaf-file-2
-    class: leafx2
+    class: leafy2
     alt: leaf-alt-2
 leaf2:
   - fbase: leaf-file-3
-    class: leafx3
+    class: leafy3
     alt: leaf-alt-3
   - fbase: leaf-file-4
-    class: leafx3
+    class: leafy3
     alt: leaf-alt-4
   - fbase: leaf-file-5
-    class: leafx3
+    class: leafy3
     alt: leaf-alt-5
 
 ---
