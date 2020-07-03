@@ -167,37 +167,37 @@ th, td {
 
 
 
-/* PICLIST use a list to display pictures, thumbnails */
+/* LEAFY use a list to display pictures */
 
-.piclist ul {
+.leafy ul {
 list-style-type: none;
 margin: 0;
 padding: 0;
 }
 
-.piclist li {
+.leafy li {
 display: inline;
 margin: 0;
 padding: 0;
 }
 
-.piclist a {
+.leafy a {
 text-decoration: none;
 }
 
-.piclist1 {
+.leafy1 {
 width: 100%;
 margin: 0;
 padding: 0;
 }
 
-.piclist2 {
+.leafy2 {
 width: 46%;
 margin: 0;
 padding: 0;
 }
 
-.piclist3 {
+.leafy3 {
 width: 30%;
 margin: 0;
 padding: 0;
