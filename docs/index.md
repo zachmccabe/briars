@@ -2,7 +2,7 @@
 layout: kaoliang5_article
 title: Laughing Lost in Briars
 date: 2020-05-25
-description: Laughing Lost in Briars
+description: I do this to remind myself of the remarkable world right in front of me.
 
 ---
 
