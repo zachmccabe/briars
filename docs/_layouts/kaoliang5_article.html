@@ -14,24 +14,16 @@
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 </head>
-  
-  <body>
-    <header>
-      {% include header.html %}
-    </header>
-
-    <main>
-      <div class="xwrap">
-        <div class="xnest20">
-          {{ content }}
-          {% if page.cta %}<div class="briarsCTA"><p>{{ page.cta }}</p></div>{% else %}{% endif %}
-        </div>
-      </div>
-    </main>
-
-    <footer>
-      {% include footer.html %}
-    </footer>
-    
-  </body>
+<body>
+<div class="xwrap">
+<nav>{% include site_nav.html %}</nav>
+<h1 id="{{ page.title }}">{{ page.title }}</h1>
+<div class="xnest20">
+{{ content }}
+</div>
+</div>
+<footer>
+{% include footer.html %}
+</footer>
+</body>
 </html>
