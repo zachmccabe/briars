@@ -1,8 +1,8 @@
 ---
 layout: kaoliang5_article
-title: Project notes from Laughing Lost in Briars
+title: Notes
 date: 2020-05-25
-description: Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
+description: Measured in time or by image volume, Laughing Lost in Briars is the biggest photo project I’ve ever attempted.
 nav: |
   + [Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
   + [Keeping it real](https://www.zachmccabe.com/briars/notes.html#keeping-it-real)
