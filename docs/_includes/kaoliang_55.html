@@ -13,13 +13,9 @@ body {
 @media (min-width: 120em){body{font-size:2.2em}}
 @media (min-width: 160em){body{font-size:3em}}
 
-header, footer {
-  text-align: center;
-}
-
-header {
+article, header, main, section {
   margin: 0 auto;
-  padding-top: 3em;
+  padding: 0;
 }
 
 footer {
@@ -27,11 +23,6 @@ footer {
   margin: 0 auto;
   padding: 5em 0;
   width: 100%;
-}
-
-article, main, section {
-  margin: 0 auto;
-  padding: 0;
 }
 
 
@@ -77,24 +68,13 @@ padding: 0;
 }
 
 hr {
-border: none;
-color: currentColor;
-height: 1em;
-margin: 2em auto 2em;
-padding: 0;
-text-align: center;
-width: auto;
-}
-
-hr:after {
-content: "";
-border: none;
-color: currentColor;
-height: 1em;
-margin: 2em auto 2em;
-padding: 0;
-text-align: center;
-width: auto;
+  background-color: currentColor;
+  border: none;
+  color: currentColor;
+  height: 0.1em;
+  margin: 5em 0 5em;
+  padding: 0;
+  width: 5em;
 }
 
 
