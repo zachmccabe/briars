@@ -3,8 +3,10 @@ layout: kaoliang5_article
 title: Laughing Lost in Briars
 date: 2020-05-25
 description: I do this to remind myself of the remarkable world right in front of me.
+robots: norobots
 
 ---
+
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
