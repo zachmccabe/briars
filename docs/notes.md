@@ -64,7 +64,7 @@ The primary audience for this project is friends in China. We grew up in some of
 
 This project is published through social platforms and instant messaging. (Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
 
-Viewed on a phone, these small scale images need to have low information density -- I want a concise message and a composition that works at 600px 1:1 while, e.g. the viewer is on her morning bus ride to work. There is no time for precious subtlety in that environment.
+Viewed on a phone, these small scale images need to have low information density. I want a concise message and a composition that works at 600px 1:1 while, e.g., the viewer is on her morning bus ride to work. There is no time for precious subtlety in that environment.
 
 When I frame the scene, select one picture over another, or write a caption I do my best to remember this. I want to keep it real.
 
@@ -137,4 +137,4 @@ Sometimes I wait for better light. Sometimes bring light with me.
 
 I keep a collapsible reflector in my car but I've only used it once. Cows hate that thing. Camera flash also spooks them. Both cattle and snakes are more willing to accommodate continuous light.
 
-For quick closeups, I always carry a small flashlight with high CRI output. This light still irritates some critters, e.g. cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo.
+For quick closeups, I always carry a small flashlight with high CRI output. This light still irritates some critters e.g., cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo.
