@@ -1,6 +1,6 @@
 ---
 layout: kaoliang5_article
-title: Notes &vert; Briars &vert;
+title: Notes &vert; Briars
 date: 2020-05-25
 description: Measured in time or by image volume, Laughing Lost in Briars is the biggest photo project I’ve ever attempted.
 robots: norobots
