@@ -60,7 +60,7 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 
 These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by how you interact with: 1. Your subject, and 2. Your audience.
 
-The primary audience for this project is friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
+The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
 
 This project is published through social platforms and instant messaging. (Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
 
