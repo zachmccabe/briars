@@ -27,7 +27,8 @@ Call it what you like – meditation, gratitude, delight. I do this to remind my
 
 {% include leaf.html leaf=page.leaf1 %}
 
-- Want to know a secret? Big changes are coming to Briars. Email me and I'll update you: <a href="mailto:hello@zachmccabe.com?Subject=Tell%20me%20your%20secret">{{ page.email }}</a>
-- Notes on my process and what I've learned are [here.]
+Want to know a secret? Big changes are coming to Briars. Email me and I'll update you: <a href="mailto:hello@zachmccabe.com?Subject=Tell%20me%20your%20secret">{{ page.email }}</a>
+
+Notes on my process and what I've learned are [here.]
 
 [here.]: https://www.zachmccabe.com/briars/notes.html
