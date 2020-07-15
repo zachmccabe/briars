@@ -1,8 +1,8 @@
 ---
 layout: kaoliang5_article
-title: Notes &vert; Briars
+title: Notes
 date: 2020-05-25
-description: Measured in time or by image volume, Laughing Lost in Briars is the biggest photo project I’ve ever attempted.
+description: Measured in time or by volume, Laughing Lost in Briars is the biggest project I’ve ever attempted.
 robots: norobots
 nav: |
   + [Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
@@ -12,27 +12,27 @@ nav: |
   + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
   + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
 leaf1:
-  - fbase: leaf-file-1
+  - fbase: briars-b
     class: leafy2
-    alt: leaf-alt-1
-  - fbase: leaf-file-2
+    alt: Collected wild grasses waiting to be identified.
+  - fbase: briars/briars-7
     class: leafy2
-    alt: leaf-alt-2
+    alt: Winter rye in an open field.
 leaf2:
-  - fbase: leaf-file-3
-    class: leafy3
-    alt: leaf-alt-3
-  - fbase: leaf-file-4
-    class: leafy3
-    alt: leaf-alt-4
-  - fbase: leaf-file-5
-    class: leafy3
-    alt: leaf-alt-5
-
+ - fbase: briars-9
+    class: leafy2
+    alt: Brilliantly lit virga in front of an incoming dusk thunderstorm.
+  - fbase: briars-a
+    class: leafy2
+    alt: A few of the cameras I use for this project.
+  - fbase: briars-8
+    class: leafy2
+    alt: Leather work gloves covered in dried clay.
+ 
 ---
 
 
-Updated: {% include print_update.html %} • Explaining my creative and technical process. Briars is now well into its 7th year. Measured in time or by image volume, this is the biggest photo project I’ve ever attempted.
+Updated: {% include print_update.html %} • Explaining my creative and technical process. Briars is now well into its 7th year. Measured in time or by volume, this is the biggest project I’ve ever attempted.
 
 
 
@@ -53,8 +53,6 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
 
-{% include leaf.html leaf=page.leaf1 %}
-
 
 ## Keeping it real
 
@@ -72,7 +70,7 @@ When I frame the scene, select one picture over another, or write a caption I do
 
 
 
-{% include leaf.html leaf=page.leaf2 %}
+{% include leaf.html leaf=page.leaf1 %}
 
 
 
@@ -106,6 +104,10 @@ The idea might be a physics metaphor but it reminds me of convergent evolution. 
 The atomic unit has become an invaluable conceptual tool for Briars. This project wouldn't have have grown without it.
 
 [A List Apart]: https://alistapart.com/article/language-of-modular-design
+
+
+
+{% include leaf.html leaf=page.leaf2 %}
 
 
 
