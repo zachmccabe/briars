@@ -25,10 +25,10 @@ Briars is 1 part diary, 1 part social publishing experiment.
 
 Call it what you like – meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
+{% include briars_signup.html %}
+
 {% include leaf.html leaf=page.leaf1 %}
 
-Want to know a secret? Big changes are coming to Briars. Email me and I'll update you: <a href="mailto:hello@zachmccabe.com?Subject=Tell%20me%20your%20secret">{{ page.email }}</a>
-
-Notes on my process and what I've learned are [here.]
+Notes on what I'm learning from the project are [here.]
 
 [here.]: https://www.zachmccabe.com/briars/notes.html
