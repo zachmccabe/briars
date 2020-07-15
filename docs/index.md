@@ -8,6 +8,7 @@ email: hello@zachmccabe.com
 
 ---
 
+{% insert srcset.html fbase="briars-0" class="nada" alt="Closeup of fingers holding a broken butterfly wing at twilight." %}
 
 Briars is 1 part diary, 1 part social publishing experiment.
 
