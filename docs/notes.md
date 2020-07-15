@@ -19,7 +19,7 @@ leaf1:
     class: leafy2
     alt: Winter rye in an open field.
 leaf2:
- - fbase: briars-9
+  - fbase: briars-9
     class: leafy2
     alt: Brilliantly lit virga in front of an incoming dusk thunderstorm.
   - fbase: briars-a
