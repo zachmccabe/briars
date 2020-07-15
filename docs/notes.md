@@ -15,18 +15,18 @@ leaf1:
   - fbase: briars-b
     class: leafy2
     alt: Collected wild grasses waiting to be identified.
-  - fbase: briars/briars-7
+  - fbase: briars-7
     class: leafy2
     alt: Winter rye in an open field.
 leaf2:
   - fbase: briars-9
-    class: leafy2
+    class: leafy3
     alt: Brilliantly lit virga in front of an incoming dusk thunderstorm.
   - fbase: briars-a
-    class: leafy2
+    class: leafy3
     alt: A few of the cameras I use for this project.
   - fbase: briars-8
-    class: leafy2
+    class: leafy3
     alt: Leather work gloves covered in dried clay.
  
 ---
