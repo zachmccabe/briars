@@ -15,6 +15,16 @@ leaf1:
   - fbase: briars-3
     class: leafy3
     alt: Copperhead waiting in ambush on oak leaves.
+leaf2:
+  - fbase: briars-5
+    class: leafy3
+    alt: Oak branches in a wild thunderstorm.
+  - fbase: briars-4
+    class: leafy3
+    alt: Closeup of a turtle shell.
+  - fbase: briars-6
+    class: leafy3
+    alt: Closeup of a cicada on a lichen-covered Post Oak.
 
 ---
 
@@ -46,6 +56,11 @@ Mindfulness is a thing you must do -- not a thing you keep in a pocket.
 Let's practice together. I have a long way to go and would love the company.
 
 [started out]: https://www.zachmccabe.com/briars/notes.html
+
+
+
+
+{% include leaf.html leaf=page.leaf2 %}
 
 
 
