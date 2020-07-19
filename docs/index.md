@@ -8,13 +8,13 @@ email: hello@zachmccabe.com
 leaf1:
   - fbase: briars-1
     class: leafy3
-    alt: Cicada on a lichen-covered Post Oak tree.
+    alt: Mantis on a leaf in a Post Oak tree.
   - fbase: briars-2
     class: leafy3
     alt: Thunderstorm passing overhead.
   - fbase: briars-3
     class: leafy3
-    alt: Copperhead on oak leaves.
+    alt: Copperhead waiting in ambush on oak leaves.
 
 ---
 
@@ -25,10 +25,49 @@ leaf1:
 
 Call it what you like – meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
-{% include briars_signup.html %}
+
 
 {% include leaf.html leaf=page.leaf1 %}
 
-Notes on what I'm learning from the project are [here.]
 
-[here.]: https://www.zachmccabe.com/briars/notes.html
+
+## Why all this?
+
+The idea here is that headspace is where you make it. So, the question becomes *how* do you make it?
+
+The answer, for me, usually starts out in the nearest overgrown field. Briars [started out] as a nature diary 7 years ago. Since then, I've learned that:
+
+1. Honing your observation skills is a chance to build empathy, like a muscle.
+2. When you do that, you gain wiggle room between crowded thoughts.
+3. Use that muscle, and you find headspace.
+
+Mindfulness is a thing you must do -- not a thing you keep in a pocket.
+
+Let's practice together. I have a long way to go and would love the company.
+
+[started out]: https://www.zachmccabe.com/briars/notes.html
+
+
+
+
+## What's next?
+
+Briars is hopping over to an email newsletter. This new format has been a long time coming. What will that look like? Same but different:
+
+The conversation here centers on everyday nature. Things are plenty wild when you sit in last year's garden, or a scrap of suburban woods, or under whatever dark sky is left. You'll see.
+
+Cross-cultural communication comes into the conversation, too. Turns out "nature" here doesn't feel so natural in some other places. (Again, break open a few assumed patterns = more headspace.)
+
+And, since my brains are at their best after a hot day under the sun, expect full-tilt silliness.
+
+---
+
+If you want to join up with the gnarly Briars crew, the only guarantee is that you will get something wrapped in an email:
+
+- 1x every full moon
+
+Maybe you should press "x." Or maybe this is just the thing you need in your inbox right now.
+
+Want in? Sign up.
+
+{% include briars_signup2.html %}
