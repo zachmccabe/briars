@@ -67,7 +67,7 @@ Let's practice together. I have a long way to go and would love the company.
 
 ## What's next?
 
-Briars is hopping over to an email newsletter. This new format has been a long time coming. What will that look like? Same but different:
+Briars is hopping over to an email newsletter. This new format has been a long time coming. What will it be like? Same but different:
 
 The conversation here centers on everyday nature. Things are plenty wild when you sit in last year's garden, or a scrap of suburban woods, or under whatever dark sky is left. You'll see.
 
