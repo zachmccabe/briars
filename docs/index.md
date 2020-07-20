@@ -81,7 +81,7 @@ If you want to join up with the gnarly Briars crew, the only guarantee is that y
 
 - 1x every full moon
 
-Maybe you should press "x." Or maybe this is just the thing you need in your inbox right now.
+Maybe you should X out. Or maybe this is just the thing you need in your inbox right now.
 
 Want in? Sign up.
 
