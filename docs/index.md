@@ -45,7 +45,7 @@ Call it what you like – meditation, gratitude, delight. I do this to remind my
 
 The idea here is that headspace is where you make it. So, the question becomes *how* do you make it?
 
-The answer, for me, usually starts out in the nearest overgrown field. Briars [started out] as a nature diary 7 years ago. Since then, I've learned that:
+The answer, for me, usually starts out in the nearest overgrown field. Briars [started out] as a nature diary. Since then, I've learned that:
 
 1. Honing your observation skills is a chance to build empathy, like a muscle.
 2. When you do that, you gain wiggle room between crowded thoughts.
@@ -71,7 +71,7 @@ Briars is hopping over to an email newsletter. This new format has been a long t
 
 The conversation here centers on everyday nature. Things are plenty wild when you sit in last year's garden, or a scrap of suburban woods, or under whatever dark sky is left. You'll see.
 
-Cross-cultural communication comes into the conversation, too. Turns out "nature" here doesn't feel so natural in some other places. (Again, break open a few assumed patterns = more headspace.)
+Cross-cultural communication comes into the conversation, too. Turns out "nature" here doesn't feel so natural in some other places. (Again, break open a few assumptions, distort a few patterns = more headspace.)
 
 And, since my brains are at their best after a hot day under the sun, expect full-tilt silliness.
 
