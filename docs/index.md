@@ -4,12 +4,11 @@ title: Laughing Lost in Briars
 date: 2020-08-14
 description: I do this to remind myself of the remarkable world right in front of me.
 robots: norobots
-email: hello@zachmccabe.com
 
 ---
 
 
-{% include srcset.html fbase="briars-0" class="nada" alt="Closeup of fingers holding a broken butterfly wing at twilight." %}
+<img src="https://images.zachmccabe.com/file/briars/briars-0-1000.jpg" alt="Closeup of fingers holding a broken butterfly wing at twilight." width="1000" height="1000">
 
 <span class="lede">Briars is 1 part diary, 1 part social publishing experiment.</span>
 
