@@ -42,7 +42,7 @@ Updated: {% include print_update.html %} • Explaining my creative and technica
 
 ## Project inspiration
 
-The project is inspired by the ranch where I work as a hand, and by some of my favorite nature journals.
+Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mainly, though, it was a chance visit with an old friend that got this project started and keeps it moving.
 
 During a visit to the US, my childhood Chinese teacher (who is a jet-setting consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
@@ -57,7 +57,10 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 
 ## Keeping it real
 
-These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by how you interact with: 1. Your subject, and 2. Your audience.
+These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by how you interact with:
+
+1. Your subject, and
+2. Your audience.
 
 The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
 
@@ -77,7 +80,7 @@ When I frame the scene, select one picture over another, or write a caption I do
 
 ## Researching the story
 
-In addition to the usual field guides, [iNaturalist,] NRCS pubs and the local Ag extension have been great resources for learning more about the ecosystem processes happening in front of me.
+To learn more about the ecosystem processes happening in front of me, I use field guides, [iNaturalist,] NRCS pubs and the local Ag extension. Instagram and Youtube, too.
 
 Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
 
@@ -118,7 +121,7 @@ The atomic unit has become an invaluable conceptual tool for Briars. This projec
 
 2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox.
 
-Because social platforms employ their own algorithms to optimize images, I simply give them a full-resolution, 1:1 crop of the image so there is plenty of data to use. However, for this website, I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files.
+3. Because social platforms employ their own algorithms to optimize images, I simply give them a full-resolution, 1:1 crop of the image so there is plenty of data to use. However, for this website, I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files.
 
 
 
