@@ -32,7 +32,7 @@ leaf2:
 ---
 
 
-Updated: {% include print_update.html %} • Explaining my creative and technical process. Briars is now well into its 7th year. Measured in time or by volume, this is the biggest project I’ve ever attempted.
+Updated: {% include print_update.html %} • Explaining my creative and technical process on a s.
 
 
 
@@ -42,13 +42,11 @@ Updated: {% include print_update.html %} • Explaining my creative and technica
 
 ## Project inspiration
 
-Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mainly, though, it was a chance visit with an old friend that got this project started and keeps it moving.
+Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mostly, though, it was a chance visit with an old friend that got this project started, and keeps it moving.
 
 During a visit to the US, my childhood Chinese teacher (who is a jet-setting consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
-As a kid, Qi's crickets and cicadas were my favorite. His work was so different to anything I'd ever seen. It made me smile. It still does. When my old teacher handed me that notebook, she gave me an idea -- and Briars got its start.
-
-Even now, when feel like I can't possibly come up with another picture, I flip through that notebook and ask myself how Qi Baishi might see the view.
+As a kid, Qi's crickets and cicadas were my favorite. His work was so different to anything I'd ever seen. It made me smile. It still does. When my former teacher handed me that notebook, she gave me an idea -- and Briars got its start. That was 7 years ago.
 
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
@@ -57,16 +55,13 @@ Even now, when feel like I can't possibly come up with another picture, I flip t
 
 ## Keeping it real
 
-These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by how you interact with:
-
-1. Your subject, and
-2. Your audience.
+These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by the interaction between you, your subject and your audience.
 
 The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
 
-This project is published through social platforms and instant messaging. (Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
+This project is published using social platforms and instant messaging. (Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
 
-Viewed on a phone, these small scale images need to have low information density. I want a concise message and a composition that works at 600px 1:1 while, e.g., the viewer is on her morning bus ride to work. There is no time for precious subtlety in that environment.
+Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1 while, e.g.: the viewer is on her morning bus ride to work.
 
 When I frame the scene, select one picture over another, or write a caption I do my best to remember this. I want to keep it real.
 
@@ -80,7 +75,7 @@ When I frame the scene, select one picture over another, or write a caption I do
 
 ## Researching the story
 
-To learn more about the ecosystem processes happening in front of me, I use field guides, [iNaturalist,] NRCS pubs and the local Ag extension. Instagram and Youtube, too.
+To learn more about the ecosystem processes happening in front of me, I use field guides, [iNaturalist,] NRCS pubs and the local agriculture extension.
 
 Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
 
@@ -117,7 +112,7 @@ The atomic unit has become an invaluable conceptual tool for Briars. This projec
 
 ## Publishing workflow
 
-1. Briars is shot with an emphasis on quick turn around. Pictures are nearly always shot as JPG, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in TXT files alongside the images.
+1. Briars is shot with an emphasis on quick turn around. Pictures are nearly always shot as JPG, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in plaintext files alongside the images.
 
 2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox.
 
@@ -131,7 +126,7 @@ Portability matters with this project; the technical aspects of image quality le
 
 ### Cameras
 
-The first 3 years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100.
+The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100.
 
 I keep the camera close by -- either stowed in a Loksak bag in my pocket, or in a small Pelican case alongside my tools. It’s probably obvious but electronics don’t like sweat, dust or having fence posts dropped on them.
 
@@ -143,4 +138,4 @@ Sometimes I wait for better light. Sometimes bring light with me.
 
 I keep a collapsible reflector in my car but I've only used it once. Cows hate that thing. Camera flash also spooks them. Both cattle and snakes are more willing to accommodate continuous light.
 
-For quick closeups, I always carry a small flashlight with high CRI output. This light still irritates some critters e.g., cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo.
+For quick closeups, I always carry a small flashlight with high-CRI output. This light still irritates some critters, e.g. cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo.
