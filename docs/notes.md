@@ -2,7 +2,7 @@
 layout: kaoliang5_article
 title: Notes
 date: 2020-05-25
-description: Measured in time or by volume, Laughing Lost in Briars is the biggest project I’ve ever attempted.
+description: Explaining my creative and technical process.
 robots: norobots
 nav: |
   + [Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
@@ -32,7 +32,7 @@ leaf2:
 ---
 
 
-Updated: {% include print_update.html %} • Explaining my creative and technical process on a s.
+Updated: {% include print_update.html %} • Explaining my creative and technical process.
 
 
 
@@ -44,9 +44,9 @@ Updated: {% include print_update.html %} • Explaining my creative and technica
 
 Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mostly, though, it was a chance visit with an old friend that got this project started, and keeps it moving.
 
-During a visit to the US, my childhood Chinese teacher (who is a jet-setting consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
+During a visit to the US, my childhood Chinese teacher gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings. (She's a business consultant these days.)
 
-As a kid, Qi's crickets and cicadas were my favorite. His work was so different to anything I'd ever seen. It made me smile. It still does. When my former teacher handed me that notebook, she gave me an idea -- and Briars got its start. That was 7 years ago.
+Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my former teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 7 years ago.
 
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
@@ -63,7 +63,7 @@ This project is published using social platforms and instant messaging. (Initial
 
 Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1 while, e.g.: the viewer is on her morning bus ride to work.
 
-When I frame the scene, select one picture over another, or write a caption I do my best to remember this. I want to keep it real.
+When I frame the scene, select one picture over another, or write a caption, I do my best to remember this. I want to keep it real.
 
 [nonfiction]: https://www.zachmccabe.com/nonfiction
 
@@ -75,14 +75,15 @@ When I frame the scene, select one picture over another, or write a caption I do
 
 ## Researching the story
 
-To learn more about the ecosystem processes happening in front of me, I use field guides, [iNaturalist,] NRCS pubs and the local agriculture extension.
-
-Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
+To learn more about the ecosystem processes happening in front of me I use field guides, [iNaturalist,] and [NRCS pubs.] Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
 
 - Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
 - When working in close proximity to things that bite, kick, or shove back, work with deliberate, slow movements. One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. I focus on physical proximity to my subject and the creature's body language. I trust the composition will be good enough.
 
 [iNaturalist,]: https://www.inaturalist.org/
+
+[NRCS pubs.]: https://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications/
+
 
 
 
@@ -116,7 +117,7 @@ The atomic unit has become an invaluable conceptual tool for Briars. This projec
 
 2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox.
 
-3. Because social platforms employ their own algorithms to optimize images, I simply give them a full-resolution, 1:1 crop of the image so there is plenty of data to use. However, for this website, I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files.
+3. Because social platforms optimize image dimensions and file size on their servers, I simply upload a big 1:1 crop of the image so there is plenty of data to use. I don't scale the image down or compress it. For this website I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files. (Yes, Nik is outdated software. It still outperforms other software I have for this kind of work.)
 
 
 
@@ -130,12 +131,12 @@ The first 3-years-worth of images were made with cell phones and a cheap action 
 
 I keep the camera close by -- either stowed in a Loksak bag in my pocket, or in a small Pelican case alongside my tools. It’s probably obvious but electronics don’t like sweat, dust or having fence posts dropped on them.
 
-There have been a handful of times that I've brought out a "big" camera to get a pre-planned shot. Generally, though, if it doesn't fit in my pockets, I don't bring it out.
+There have been a handful of times that I've brought out a "big" camera to get a pre-planned shot. Generally, though, if the photo gear doesn't fit in my pockets, I don't bring it out.
 
 ### Light
 
 Sometimes I wait for better light. Sometimes bring light with me.
 
-I keep a collapsible reflector in my car but I've only used it once. Cows hate that thing. Camera flash also spooks them. Both cattle and snakes are more willing to accommodate continuous light.
+I keep a collapsible reflector in my car but I've only used it once. Cows really hate that thing. Camera flash also spooks them. Both cattle and snakes are more willing to accommodate continuous light, though.
 
-For quick closeups, I always carry a small flashlight with high-CRI output. This light still irritates some critters, e.g. cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo.
+For quick closeups I carry a small flashlight with high-CRI output. This light still irritates some critters, e.g. cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo.
