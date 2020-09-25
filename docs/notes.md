@@ -129,14 +129,16 @@ Portability matters with this project; the technical aspects of image quality le
 
 The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100.
 
-I keep the camera close by -- either stowed in a Loksak bag in my pocket, or in a small Pelican case alongside my tools. It’s probably obvious but electronics don’t like sweat, dust or having fence posts dropped on them.
+I keep the camera close by -- either stowed in a Loksak bag in my pocket, or in a small Pelican case.
 
-There have been a handful of times that I've brought out a "big" camera to get a pre-planned shot. Generally, though, if the photo gear doesn't fit in my pockets, I don't bring it out.
+Occasionally, I bring out a "big" camera to get a pre-planned shot. Generally, though, if the photo gear doesn't fit in my pockets, I don't bring it out.
 
 ### Light
 
 Sometimes I wait for better light. Sometimes bring light with me.
 
-I keep a collapsible reflector in my car but I've only used it once. Cows really hate that thing. Camera flash also spooks them. Both cattle and snakes are more willing to accommodate continuous light, though.
+I keep a collapsible reflector in my car but I've only used it once. Animals really hate that thing. Camera flash isn't much better. Both cattle and snakes are more willing to accommodate continuous light, I've found.
 
-For quick closeups I carry a small flashlight with high-CRI output. This light still irritates some critters, e.g. cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo.
+For quick closeups I carry a small flashlight with high-CRI output. This light still irritates some critters, e.g. cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo. This post from ILCP is a [good way into that topic.]
+
+[good way into the topic.]: https://conservationphotographers.org/from-wild-to-captive-a-call-for-ethics-in-modern-nature-photography/
