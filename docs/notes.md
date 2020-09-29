@@ -78,30 +78,36 @@ When I frame the scene, select one picture over another, or write a caption, I d
 To learn more about the ecosystem processes happening in front of me I use field guides, [iNaturalist,] and [NRCS pubs.] Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
 
 - Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
-- When working in close proximity to things that bite, kick, or shove back, work with deliberate, slow movements. One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. I focus on physical proximity to my subject and the creature's body language. I trust the composition will be good enough.
+- Move softly and deliberately. This is critical when working around things that bite, kick, or shove back.
+- To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo. This post from ILCP is a [good way into that topic.]
 
 [iNaturalist,]: https://www.inaturalist.org/
 
 [NRCS pubs.]: https://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications/
+
+[good way into that topic.]: https://conservationphotographers.org/from-wild-to-captive-a-call-for-ethics-in-modern-nature-photography/
+
 
 
 
 
 ## Structuring the story
 
-New for this project is the "atomic unit" structure. 
+New for this project is the [atomic unit method.] 
 
-This was suggested to me by a friend, who is a designer. This model is used in design as a way to scale up efficiently. The idea is to divide information and interfaces down into their most basic pieces and build out from those elements. See this article at [A List Apart] for more.
-
-With Briars, the atomic unit is simply a dairy entry -- one picture and any notes I'll need for caption writing.
-
-The idea might be a physics metaphor but it reminds me of convergent evolution. (You can't look at the contemporary web without seeing this pattern everywhere.) But could a model for the design process be used for creating content? When I adopted this model to organize my project, I hoped to:
+This modularization technique is used in design as a way to scale up efficiently. A friend, who is a designer, suggested I look up Brad Frost and experiment with his methodology. I hoped structuring my story this way would let me:
 
 - Jump between social media platforms.
 - Switch between languages, i.e. Chinese and English.
 - Scale the project up over time.
 
-The atomic unit has become an invaluable conceptual tool for Briars. This project wouldn't have have grown without it.
+The idea is to divide information and interfaces down into their most basic pieces and build out from those elements. See this article at [A List Apart] for more.
+
+My needs are pretty simple. The atomic unit is simply a dairy entry -- one picture and any notes I'll need for caption writing.
+
+The atomic unit has become an invaluable conceptual tool for this framing a rather unruly, multi-platform story. Briars wouldn't have grown without it.
+
+[atomic unit method.]: https://atomicdesign.bradfrost.com/chapter-2/
 
 [A List Apart]: https://alistapart.com/article/language-of-modular-design
 
@@ -123,22 +129,20 @@ The atomic unit has become an invaluable conceptual tool for Briars. This projec
 
 ## Tools and cameras
 
-Portability matters with this project; the technical aspects of image quality less so.
+Portability matters with this project. The technical aspects of image quality are less important. Generally, I only use whatever photo gear I can fit in my pockets.
 
 ### Cameras
 
-The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100.
+The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100. I use either a 4x7" Loksak bag or a tiny, #1010 Pelican case to add some protection from sweat, dust and rain.
 
-I keep the camera close by -- either stowed in a Loksak bag in my pocket, or in a small Pelican case.
-
-Occasionally, I bring out a "big" camera to get a pre-planned shot. Generally, though, if the photo gear doesn't fit in my pockets, I don't bring it out.
+One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision.
 
 ### Light
 
-Sometimes I wait for better light. Sometimes bring light with me.
+For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so I upgraded what I already had.
 
-I keep a collapsible reflector in my car but I've only used it once. Animals really hate that thing. Camera flash isn't much better. Both cattle and snakes are more willing to accommodate continuous light, I've found.
+For the past few years I've been using Jaxman E3 lights, which I run on 1x NIMH AA battery. I use both the 4000K and 5700K Nichia versions of this light. Each is rated at 90 CRI.
 
-For quick closeups I carry a small flashlight with high-CRI output. This light still irritates some critters, e.g. cicadas, caterpillars and scorpions. To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo. This post from ILCP is a [good way into that topic.]
+I like these lights but I don't want to oversell it -- this is not an ideal way to light your picture. Still, the effect can be useful as long as the subject itself is small.
 
-[good way into the topic.]: https://conservationphotographers.org/from-wild-to-captive-a-call-for-ethics-in-modern-nature-photography/
+I also keep a collapsible reflector in my car but I've only used it once. Animals really hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
