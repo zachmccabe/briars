@@ -103,9 +103,12 @@ This modularization technique is used in design as a way to scale up efficiently
 
 The idea is to divide information and interfaces down into their most basic pieces and build out from those elements. See this article at [A List Apart] for more.
 
-My needs are pretty simple. The atomic unit is simply a dairy entry -- one picture and any notes I'll need for caption writing.
+My needs are comparatively simple. For Briars, the atomic unit is defined as a diary entry -- a picture and any notes I'll need for caption writing. All the other stuff I use are grouped into separate structures, e.g.: 
 
-The atomic unit has become an invaluable conceptual tool for this framing a rather unruly, multi-platform story. Briars wouldn't have grown without it.
+- Finished captions are a discrete atomic unit of their own; the content, tone and language vary.
+- Reference pictures and video, which I use for looking up plant species in a botanical key.
+
+The atomic unit is a powerful conceptual tool that's helped me to organize this multi-platform story. Briars wouldn't have grown without it.
 
 [atomic unit method.]: https://atomicdesign.bradfrost.com/chapter-2/
 
