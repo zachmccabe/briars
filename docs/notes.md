@@ -44,9 +44,9 @@ Updated: {% include print_update.html %} • Explaining my creative and technica
 
 Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mostly, though, it was a chance visit with an old friend that got this project started, and keeps it moving.
 
-During a visit to the US, my childhood Chinese teacher gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings. (She's a business consultant these days.)
+During a visit to the US, my childhood Chinese teacher gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings. (She's a business consultant now.)
 
-Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my former teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 7 years ago.
+Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 7 years ago.
 
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
@@ -59,7 +59,7 @@ These pictures are made as a diary, and shared with friends via social channels.
 
 The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
 
-This project is published using social platforms and instant messaging. (Initially, this project went out to friends via direct message, then to friends on WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
+This project is published using social platforms and instant messaging. (Briars initially went out to friends via direct message, then to WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
 
 Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1 while, e.g.: the viewer is on her morning bus ride to work.
 
@@ -86,8 +86,6 @@ To learn more about the ecosystem processes happening in front of me I use field
 [NRCS pubs.]: https://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications/
 
 [good way into that topic.]: https://conservationphotographers.org/from-wild-to-captive-a-call-for-ethics-in-modern-nature-photography/
-
-
 
 
 
