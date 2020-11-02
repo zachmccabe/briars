@@ -11,23 +11,6 @@ nav: |
   + [Structuring the story](https://www.zachmccabe.com/briars/notes.html#structuring-the-story)
   + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
   + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
-leaf1:
-  - fbase: briars-b
-    class: leafy2
-    alt: Collected wild grasses waiting to be identified.
-  - fbase: briars-7
-    class: leafy2
-    alt: Winter rye in an open field.
-leaf2:
-  - fbase: briars-9
-    class: leafy3
-    alt: Brilliantly lit virga in front of an incoming dusk thunderstorm.
-  - fbase: briars-a
-    class: leafy3
-    alt: A few of the cameras I use for this project.
-  - fbase: briars-8
-    class: leafy3
-    alt: Leather work gloves covered in dried clay.
  
 ---
 
@@ -69,9 +52,6 @@ When I frame the scene, select one picture over another, or write a caption, I d
 
 
 
-{% include leaf.html leaf=page.leaf1 %}
-
-
 
 ## Researching the story
 
@@ -89,11 +69,16 @@ To learn more about the ecosystem processes happening in front of me I use field
 
 
 
+
 ## Structuring the story
 
 New for this project is the atomic unit method. 
 
-This modularization technique is used in design as a way to scale up efficiently. A friend, who is a designer, suggested I look up Brad Frost and experiment with [his method.]
+This modularization strategy is used in design as a way to scale up efficiently. A friend, who is a designer, suggested I look up Brad Frost and experiment with [his method.]
+
+The idea is to divide information and interfaces down into their most basic pieces, and build out from those elements. See this article at [A List Apart] for more.
+
+For Briars, the atomic unit is defined as a diary entry -- a picture and any notes I'll need for caption writing.
 
 I hoped structuring my story this way would let me:
 
@@ -101,9 +86,7 @@ I hoped structuring my story this way would let me:
 - Switch between languages, i.e. Chinese and English.
 - Scale the project up over time.
 
-The idea is to divide information and interfaces down into their most basic pieces and build out from those elements. See this article at [A List Apart] for more.
-
-For Briars, the atomic unit is defined as a diary entry -- a picture and any notes I'll need for caption writing. All the other stuff I use are grouped into separate structures, e.g.: 
+All the other stuff I use is grouped into separate structures, e.g.: 
 
 - Finished captions are a discrete atomic unit of their own; the content, tone and language vary.
 - Reference pictures and video, which I use for looking up plant species in a botanical key.
@@ -115,8 +98,6 @@ The atomic unit is a powerful conceptual tool that's helped me to organize this 
 [A List Apart]: https://alistapart.com/article/language-of-modular-design
 
 
-
-{% include leaf.html leaf=page.leaf2 %}
 
 
 
@@ -130,13 +111,16 @@ The atomic unit is a powerful conceptual tool that's helped me to organize this 
 
 
 
+
 ## Tools and cameras
 
 Portability matters with this project. The technical aspects of image quality are less important. Generally, I only use whatever photo gear I can fit in my pockets.
 
 ### Cameras
 
-The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100. I use either a 4x7" Loksak bag or a tiny, #1010 Pelican case to add some protection from sweat, dust and rain.
+The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100.
+
+I use either a 4x7" Loksak bag or a tiny, #1010 Pelican case to add some protection from sweat, dust and rain.
 
 One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision.
 
@@ -144,10 +128,6 @@ One useful thing about working with phones and compact cameras is that you don't
 
 For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so just I upgraded what I already had.
 
-For the past few years I've been using Jaxman E3 lights, which I run on 1x NIMH AA batteries. I use both the 4000K and 5700K Nichia versions of the light. Each is rated at 90 CRI.
+For the past few years I've been using Jaxman E3 lights, which I run on 1x NIMH AA batteries. I use both the 4000K and 5700K Nichia versions of this light. Each is rated at 90 CRI.
 
-To emphasize shape and texture, I rake  light across the subject, or bring in light from behind the subject.
-
-Using a tiny flashlight to light your picture is weird, I know. But I think of it like a pocket-able hair light, or a snoot, for subjects that are equally small.
-
-I also keep a collapsible reflector in my car but I've only used it once. Animals really hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
+I also keep a collapsible reflector in my car but I've only used it once. Cattle, in particulary, really hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
