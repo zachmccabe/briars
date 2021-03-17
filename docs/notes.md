@@ -38,7 +38,7 @@ Qi's crickets and cicadas were my favorite when I was a kid. His work was so dif
 
 ## Keeping it real
 
-These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, [nonfiction] is defined by the interaction between you, your subject and your audience.
+These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, nonfiction is defined by the interaction between you, your subject and your audience.
 
 The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
 
@@ -47,8 +47,6 @@ This project is published using social platforms and instant messaging. (Briars 
 Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1 while, e.g.: the viewer is on her morning bus ride to work.
 
 When I frame the scene, select one picture over another, or write a caption, I do my best to remember this. I want to keep it real.
-
-[nonfiction]: https://www.zachmccabe.com/nonfiction
 
 
 
