@@ -1,8 +1,8 @@
 ---
 layout: kaoliang5_article
 title: Notes
-date: 2020-05-25
-description: Explaining my creative and technical process.
+date: 2021-03-17
+description: This is my biggest photo project yet. Here's how I make it work.
 robots: norobots
 nav: |
   + [Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
@@ -15,7 +15,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • Explaining my creative and technical process.
+Updated: {% include print_update.html %} • This is my biggest photo project yet. Here's how I make it work.
 
 
 
@@ -78,13 +78,13 @@ This modularization strategy is used in design as a way to scale up efficiently.
 
 The idea is to divide information and interfaces down into their most basic pieces, and build out from those elements. See this article at [A List Apart] for more.
 
-For Briars, the atomic unit is defined as a diary entry -- a picture and any notes I'll need for caption writing.
+For Briars, the atomic unit is defined as a diary entry -- a picture and any notes I'll need for caption writing. It's not so different from the classic image-plus-caption structure familiar to photojournalists.
 
-I hoped structuring my story this way would let me:
+What's new (to me) is how these units flow and scale. Structuring the story this way lets me:
 
 - Jump between social media platforms.
 - Switch between languages, i.e. Chinese and English.
-- Scale the project up over time.
+- Scale up the project over time.
 
 All the other stuff I use is grouped into separate structures, e.g.: 
 
@@ -93,10 +93,13 @@ All the other stuff I use is grouped into separate structures, e.g.:
 
 The atomic unit is a powerful conceptual tool that's helped me to organize this multi-platform story. Briars wouldn't have grown without it.
 
+Of course, this story form is everywhere now, thanks to the remarkable success of social media platforms. It feels like the default. But I still remember trying to wrap my head around this [2009 blog post] explaining NPR's "create once, publish everywhere" strategy the first time I read it.
+
 [his method.]: https://atomicdesign.bradfrost.com/chapter-2/
 
 [A List Apart]: https://alistapart.com/article/language-of-modular-design
 
+[2009 blog post]: https://www.npr.org/sections/inside/2009/02/clean_content_portable_content.html
 
 
 
@@ -107,7 +110,7 @@ The atomic unit is a powerful conceptual tool that's helped me to organize this 
 
 2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox.
 
-3. Because social platforms optimize image dimensions and file size on their servers, I simply upload a big 1:1 crop of the image so there is plenty of data to use. I don't scale the image down or compress it. For this website I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files. (Yes, Nik is outdated software. It still outperforms other software I have for this kind of work.)
+3. Because social platforms optimize image dimensions and file size on their servers, I simply upload a big 1:1 crop of the image so there is plenty of data to use. I don't scale the image down or compress it. For this website I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files.
 
 
 
