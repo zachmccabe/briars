@@ -38,15 +38,17 @@ Qi's crickets and cicadas were my favorite when I was a kid. His work was so dif
 
 ## Keeping it real
 
-These pictures are made as a diary, and shared with friends via social channels. For Briars, like with any story, nonfiction is defined by the interaction between you, your subject and your audience.
+These pictures are made as a diary. The story is nonfiction.
 
-The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere.
+For Briars, like with any story, nonfiction is defined by how you interact with your subject and your audience.
 
-This project is published using social platforms and instant messaging. (Briars initially went out to friends via direct message, then to WeChat and Instagram. I no longer use those 2 platforms but I am always tinkering with new venues for sharing the project.)
+The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends' curiosity, and my own.
 
-Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1 while, e.g.: the viewer is on her morning bus ride to work.
+Briars initially went out to friends via direct message on WeChat, later expanding to Instagram. (Although I no longer use those 2 platforms, I am always tinkering with new ways to share the project.)
 
-When I frame the scene, select one picture over another, or write a caption, I do my best to remember this. I want to keep it real.
+Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1.
+
+I do my best to remember all this when I frame the scene, choose one picture over another or write a caption. I want to keep it real.
 
 
 
