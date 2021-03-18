@@ -1,7 +1,7 @@
 ---
 layout: kaoliang5_article
 title: Notes
-date: 2021-03-17
+date: 2021-03-18
 description: This is my biggest photo project yet. Here's how I make it work.
 robots: norobots
 nav: |
