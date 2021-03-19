@@ -15,8 +15,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • This is my biggest photo project yet. Here's how I make it work.
-
+Updated: {% include print_update.html %}
 
 
 {% include page_nav.html %}
