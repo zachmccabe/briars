@@ -1,8 +1,8 @@
 ---
-layout: kaoliang5_article
+layout: kaoliang_nite_5
 title: Notes
 date: 2021-03-18
-description: This is my biggest photo project yet. Here's how I make it work.
+description: This is my biggest photo project yet. Here's how I make it work for me.
 robots: norobots
 nav: |
   + [Project inspiration](https://www.zachmccabe.com/briars/notes.html#project-inspiration)
@@ -15,7 +15,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %}
+Updated: {% include print_update.html %} • This is my biggest photo project yet. Here's how I make it work for me.
 
 
 {% include page_nav.html %}
@@ -26,9 +26,9 @@ Updated: {% include print_update.html %}
 
 Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mostly, though, it was a chance visit with an old friend that got this project started, and keeps it moving.
 
-During a visit to the US, my childhood Chinese teacher gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings. (She's a business consultant now.)
+During a visit to the US, my childhood Chinese teacher gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings. (She is a business consultant now.)
 
-Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 7 years ago.
+Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 8 years ago.
 
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
@@ -54,7 +54,7 @@ I do my best to remember all this when I frame the scene, choose one picture ove
 
 ## Researching the story
 
-To learn more about the ecosystem processes happening in front of me I use field guides, [iNaturalist,] and [NRCS pubs.] Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too:
+To learn more about the ecosystem processes happening in front of me I use field guides, [iNaturalist,] and [NRCS pubs.] Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too. For example:
 
 - Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
 - Move softly and deliberately. This is critical when working around things that bite, kick, or shove back.
