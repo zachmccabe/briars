@@ -1,5 +1,5 @@
 ---
-layout: kaoliang5_article
+layout: kaoliang_nite_5
 title: Laughing Lost in Briars
 date: 2020-08-14
 description: I do this to remind myself of the remarkable world right in front of me.
