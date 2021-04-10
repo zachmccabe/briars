@@ -21,7 +21,7 @@
 {% include site_nav.html %}
 <main class="xnest20">
 <p><img src="{{ page.img-url }}" width="500" height="500" alt="{{ page.img-alt }}" /></p>
-{{ content }}
+{{ page.img-caption | markdownify }}
 <p>
 <a href="{{ page.prev-slide }}">Back</a> • <a href="{{ page.next-slide }}">Next</a>
 </p>  
