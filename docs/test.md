@@ -7,7 +7,7 @@ robots: norobots
 img-url: https://images.zachmccabe.com/file/briars/briars-0-1000.jpg
 img-alt: "Close up of fingers holding dissicated wing of a Monarch butterfly at twilight"
 img-caption: |
-  "Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1."
+  "Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1.  a"
 
 prev-slide: https://www.zachmccabe.com/briars
 next-slide: https://www.zachmccabe.com/briars/notes
