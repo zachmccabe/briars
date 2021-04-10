@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<title>{{ page.title }} 🐛 Zach McCabe</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="viewport" content="width=device-width">
+{% if page.robots == "norobots" %}{% include meta_robots.html %}{% endif %}
+<meta name="description" content="{{ page.description }}" />
+<meta name="date" content="{{ page.date }}" />
+<link rel="canonical" href="https://www.zachmccabe.com/briars{{ page.url }}" />
+<style>
+{% include kaoliang_nite_55.html %}
+</style>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="xwrap">
+{% include site_nav.html %}
+<main class="xnest20">
+<p><img src="{{ page.img-url }}" width="500" height="500" alt="{{ page.img-alt }}" /></p>
+{{ content }}
+<p>
+<a href="{{ page.prev-slide }}">Back</a> • <a href="{{ page.next-slide }}">Next</a>
+</p>  
+</main>
+<footer>
+{% include footer.html %}
+</footer>
+</div>
+</body>
+</html>
