@@ -9,6 +9,8 @@ img-alt: Close up of fingers holding dissicated wing of a Monarch butterfly at t
 img-caption: |
   Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1.
 
+This is a test. Just a test.
+
 prev-slide: https://www.zachmccabe.com/briars
 next-slide: https://www.zachmccabe.com/briars/notes
 
