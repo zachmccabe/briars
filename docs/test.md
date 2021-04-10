@@ -6,12 +6,10 @@ description: This is a test.
 robots: norobots
 img-url: https://images.zachmccabe.com/file/briars/briars-0-1000.jpg
 img-alt: "Close up of fingers holding dissicated wing of a Monarch butterfly at twilight"
+img-caption: |
+Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1.
 prev-slide: https://www.zachmccabe.com/briars
-next-slide: https://www.zachmccabe.com/briars
+next-slide: https://www.zachmccabe.com/briars/notes
 
 ---
 
-
-For Briars, like with any story, nonfiction is defined by how you interact with your subject and your audience.
-
-Briars initially went out to friends via direct message on WeChat, later expanding to Instagram. (Although I no longer use those 2 platforms, I am always tinkering with new ways to share the project.)
