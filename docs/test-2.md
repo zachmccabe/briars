@@ -1,5 +1,5 @@
 ---
-layout: kaoliang_meta_test
+layout: kao_meta_test
 title: Test 2
 date: 2021-05-02
 description: This is a test
