@@ -25,8 +25,8 @@ Updated: {% include print_update.html %} • This is my biggest photo project ye
 ## Project inspiration
 
 Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mostly, though, it was a chance visit with an old friend that got this project started, and keeps it moving.
-
-During a visit to the US, my childhood Chinese teacher gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings. (She is a business consultant now.)
+ 
+During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
 Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 8 years ago.
 
@@ -120,7 +120,7 @@ Portability matters with this project. The technical aspects of image quality ar
 
 ### Cameras
 
-The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100.
+The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a couple of secondhand Sony RX100-series cameras.
 
 I use either a 4x7" Loksak bag or a tiny, #1010 Pelican case to add some protection from sweat, dust and rain.
 
@@ -128,8 +128,8 @@ One useful thing about working with phones and compact cameras is that you don't
 
 ### Light
 
-For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so just I upgraded what I already had.
+For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so I just upgraded what I already had.
 
 For the past few years I've been using Jaxman E3 lights, which I run on 1x NIMH AA batteries. I use both the 4000K and 5700K Nichia versions of this light. Each is rated at 90 CRI.
 
-I also keep a collapsible reflector in my car but I've only used it once. Cattle, in particulary, really hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
+I also keep a collapsible reflector in my car but I've only used it once. Cattle, in particular, really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
